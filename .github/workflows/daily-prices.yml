@@ -41,7 +41,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        chain: [k_rauta_fi, byggmax_fi]
+        chain: [k_rauta_fi, byggmax_fi, power_fi]
     steps:
       - uses: actions/checkout@v4
         with:

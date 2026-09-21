@@ -17,7 +17,7 @@ from datetime import date
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CHAINS = ["k_rauta_fi", "byggmax_fi"]
+CHAINS = ["k_rauta_fi", "byggmax_fi", "power_fi"]
 
 
 def load_prev(chain):
