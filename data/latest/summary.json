@@ -1,0 +1,20 @@
+{
+ "date": "2026-09-22",
+ "total_rows": 5875,
+ "chains": {
+  "k_rauta_fi": {
+   "products": 0,
+   "price_changes": 0,
+   "suspicious_changes": 0,
+   "expired": 0,
+   "seconds": 191.3
+  },
+  "byggmax_fi": {
+   "products": 10772,
+   "price_changes": 4,
+   "suspicious_changes": 0,
+   "expired": 0,
+   "seconds": 12256.1
+  }
+ }
+}
