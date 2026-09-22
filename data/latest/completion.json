@@ -7,11 +7,11 @@
   },
   "byggmax_fi": {
    "rows": 5875,
-   "complete": false
+   "complete": true
   },
   "power_fi": {
-   "rows": 50,
-   "complete": false
+   "rows": 34364,
+   "complete": true
   }
  }
 }
