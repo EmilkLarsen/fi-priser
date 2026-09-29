@@ -1,27 +1,27 @@
 {
- "date": "2026-09-28",
- "total_rows": 40494,
+ "date": "2026-09-29",
+ "total_rows": 40550,
  "chains": {
   "k_rauta_fi": {
    "products": 0,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 146.8
+   "seconds": 183.6
   },
   "power_fi": {
-   "products": 34426,
+   "products": 34468,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 15613.7
+   "seconds": 15609.1
   },
   "byggmax_fi": {
    "products": 10714,
-   "price_changes": 19,
+   "price_changes": 6,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 10724.4
+   "seconds": 11021.0
   }
  }
 }
