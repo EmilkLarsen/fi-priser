@@ -1,5 +1,5 @@
 {
- "date": "2026-10-01",
+ "date": "2026-10-02",
  "detail": {
   "byggmax_fi": {
    "rows": 5880,
@@ -10,7 +10,7 @@
    "complete": false
   },
   "power_fi": {
-   "rows": 34750,
+   "rows": 34838,
    "complete": true
   }
  }
