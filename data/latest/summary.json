@@ -1,23 +1,23 @@
 {
- "date": "2026-10-08",
- "total_rows": 41207,
+ "date": "2026-10-09",
+ "total_rows": 41270,
  "chains": {
   "k_rauta_fi": {
    "error": "HTTPError: HTTP Error 403: Forbidden"
   },
   "power_fi": {
-   "products": 34407,
+   "products": 34373,
    "price_changes": 0,
    "suspicious_changes": 0,
-   "expired": 46,
-   "seconds": 15585.5
+   "expired": 35,
+   "seconds": 15579.9
   },
   "byggmax_fi": {
    "products": 10240,
-   "price_changes": 22,
+   "price_changes": 7,
    "suspicious_changes": 0,
-   "expired": 10,
-   "seconds": 12042.3
+   "expired": 33,
+   "seconds": 10510.6
   }
  }
 }
