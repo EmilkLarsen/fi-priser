@@ -1,12 +1,8 @@
 {
- "date": "2026-10-15",
+ "date": "2026-10-16",
  "chains": {
   "power_fi": {
-   "products": 33025,
-   "price_changes": 0,
-   "suspicious_changes": 0,
-   "expired": 35,
-   "seconds": 17514.2
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   }
  }
 }
