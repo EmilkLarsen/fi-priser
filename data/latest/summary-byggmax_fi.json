@@ -1,12 +1,12 @@
 {
- "date": "2026-10-24",
+ "date": "2026-10-25",
  "chains": {
   "byggmax_fi": {
    "products": 11898,
-   "price_changes": 2,
+   "price_changes": 1,
    "suspicious_changes": 0,
-   "expired": 1,
-   "seconds": 5773.5
+   "expired": 0,
+   "seconds": 6518.3
   }
  }
 }
