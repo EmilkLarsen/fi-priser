@@ -1,12 +1,12 @@
 {
- "date": "2026-10-28",
+ "date": "2026-10-29",
  "chains": {
   "power_fi": {
-   "products": 34184,
+   "products": 34310,
    "price_changes": 0,
    "suspicious_changes": 0,
-   "expired": 77,
-   "seconds": 15549.6
+   "expired": 34,
+   "seconds": 15611.2
   }
  }
 }
