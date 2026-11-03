@@ -1,8 +1,8 @@
 {
- "date": "2026-11-02",
+ "date": "2026-11-03",
  "detail": {
   "byggmax_fi": {
-   "rows": 5959,
+   "rows": 5962,
    "complete": true
   },
   "k_rauta_fi": {
@@ -10,7 +10,7 @@
    "complete": false
   },
   "power_fi": {
-   "rows": 35106,
+   "rows": 35026,
    "complete": true
   }
  }
