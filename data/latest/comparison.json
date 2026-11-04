@@ -1,1 +1,470 @@
-[]
+[
+ {
+  "key": "ean:8720169254503",
+  "name": "Aloituspakkaus Philips Hue White And Color Ambience 42W 1200L 2200 6500K 3Xgu10",
+  "prices": {
+   "k_rauta_fi": 189.0,
+   "power_fi": 77.9
+  },
+  "min": 77.9,
+  "max": 189.0,
+  "spread_pct": 142.6,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496550814",
+  "name": "Akkuparisto Varta Power 9V 200Mah Ladattava",
+  "prices": {
+   "k_rauta_fi": 11.95,
+   "power_fi": 4.99
+  },
+  "min": 4.99,
+  "max": 11.95,
+  "spread_pct": 139.5,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496152865",
+  "name": "Alkaliparisto Varta V11A",
+  "prices": {
+   "k_rauta_fi": 2.95,
+   "power_fi": 5.99
+  },
+  "min": 2.95,
+  "max": 5.99,
+  "spread_pct": 103.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496594375",
+  "name": "Akkuparisto Varta Power Aaa 1000Mah Ladattava 4Kpl",
+  "prices": {
+   "k_rauta_fi": 19.95,
+   "power_fi": 9.99
+  },
+  "min": 9.99,
+  "max": 19.95,
+  "spread_pct": 99.7,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496559671",
+  "name": "Alkaliparisto Varta Longlife Power Aa 12Kpl",
+  "prices": {
+   "k_rauta_fi": 11.08,
+   "power_fi": 5.99
+  },
+  "min": 5.99,
+  "max": 11.08,
+  "spread_pct": 85.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496559312",
+  "name": "Alkaliparisto Varta Longlife Power C 2Kpl",
+  "prices": {
+   "k_rauta_fi": 5.5,
+   "power_fi": 2.99
+  },
+  "min": 2.99,
+  "max": 5.5,
+  "spread_pct": 83.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7090011002530",
+  "name": "Alkometri Alcotrx Suukappale 5Kpl",
+  "prices": {
+   "k_rauta_fi": 5.52,
+   "power_fi": 9.9
+  },
+  "min": 5.52,
+  "max": 9.9,
+  "spread_pct": 79.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496550739",
+  "name": "Akkuparisto Varta Power C 3000Mah Ladattava 2Kpl",
+  "prices": {
+   "k_rauta_fi": 10.1,
+   "power_fi": 18.0
+  },
+  "min": 10.1,
+  "max": 18.0,
+  "spread_pct": 78.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138791",
+  "name": "Allas Stala Ceg40 50B Komposiitti",
+  "prices": {
+   "k_rauta_fi": 349.0,
+   "power_fi": 217.37
+  },
+  "min": 217.37,
+  "max": 349.0,
+  "spread_pct": 60.6,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496559237",
+  "name": "Alkaliparisto Varta Longlife Power D 2Kpl",
+  "prices": {
+   "k_rauta_fi": 5.95,
+   "power_fi": 3.77
+  },
+  "min": 3.77,
+  "max": 5.95,
+  "spread_pct": 57.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791137015",
+  "name": "Allas Stala Rst Pyykki P59071U Tason Paalle",
+  "prices": {
+   "k_rauta_fi": 364.0,
+   "power_fi": 230.99
+  },
+  "min": 230.99,
+  "max": 364.0,
+  "spread_pct": 57.6,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138371",
+  "name": "Allas Stala Ceg5157B Komposiitti",
+  "prices": {
+   "k_rauta_fi": 409.0,
+   "power_fi": 279.98
+  },
+  "min": 279.98,
+  "max": 409.0,
+  "spread_pct": 46.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138562",
+  "name": "Allas Stala Lyria L40 40 Rst",
+  "prices": {
+   "k_rauta_fi": 279.0,
+   "power_fi": 200.99
+  },
+  "min": 200.99,
+  "max": 279.0,
+  "spread_pct": 38.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496745975",
+  "name": "Akkuparisto Varta Power Aa 2600Mah Ladattava 4Kpl",
+  "prices": {
+   "k_rauta_fi": 19.95,
+   "power_fi": 14.99
+  },
+  "min": 14.99,
+  "max": 19.95,
+  "spread_pct": 33.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138579",
+  "name": "Allas Stala Lyria L40 17 Rst",
+  "prices": {
+   "k_rauta_fi": 275.0,
+   "power_fi": 215.99
+  },
+  "min": 215.99,
+  "max": 275.0,
+  "spread_pct": 27.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496884223",
+  "name": "Alkaliparisto Varta 2Kpl Aaaa",
+  "prices": {
+   "k_rauta_fi": 3.95,
+   "power_fi": 4.99
+  },
+  "min": 3.95,
+  "max": 4.99,
+  "spread_pct": 26.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496559862",
+  "name": "Alkaliparisto Varta Longlife Power 9V",
+  "prices": {
+   "k_rauta_fi": 3.95,
+   "power_fi": 4.99
+  },
+  "min": 3.95,
+  "max": 4.99,
+  "spread_pct": 26.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791133031",
+  "name": "Allas Stala Jazz P 40Pt 5922054 Rst",
+  "prices": {
+   "k_rauta_fi": 179.0,
+   "power_fi": 144.99
+  },
+  "min": 144.99,
+  "max": 179.0,
+  "spread_pct": 23.5,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138845",
+  "name": "Allas Stala Rst Lagom 34 Pieni",
+  "prices": {
+   "k_rauta_fi": 289.0,
+   "power_fi": 237.99
+  },
+  "min": 237.99,
+  "max": 289.0,
+  "spread_pct": 21.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138784",
+  "name": "Allas Stala Lyria L50 60 Rst",
+  "prices": {
+   "k_rauta_fi": 264.0,
+   "power_fi": 220.99
+  },
+  "min": 220.99,
+  "max": 264.0,
+  "spread_pct": 19.5,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496128518",
+  "name": "Alkaliparisto Varta Longlife Power D 2Kpl",
+  "prices": {
+   "k_rauta_fi": 5.95,
+   "power_fi": 4.99
+  },
+  "min": 4.99,
+  "max": 5.95,
+  "spread_pct": 19.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138838",
+  "name": "Allas Stala Lagom 18 50 Kannas Ruostumaton Teras",
+  "prices": {
+   "k_rauta_fi": 659.0,
+   "power_fi": 552.99
+  },
+  "min": 552.99,
+  "max": 659.0,
+  "spread_pct": 19.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138876",
+  "name": "Allas Stala Rst Lagom 40 Nelio",
+  "prices": {
+   "k_rauta_fi": 299.0,
+   "power_fi": 252.99
+  },
+  "min": 252.99,
+  "max": 299.0,
+  "spread_pct": 18.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138593",
+  "name": "Allas Stala Lyria L40 S Rst",
+  "prices": {
+   "k_rauta_fi": 194.0,
+   "power_fi": 165.99
+  },
+  "min": 165.99,
+  "max": 194.0,
+  "spread_pct": 16.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138883",
+  "name": "Allas Stala Rst Lagom 50 Tilava",
+  "prices": {
+   "k_rauta_fi": 339.0,
+   "power_fi": 297.99
+  },
+  "min": 297.99,
+  "max": 339.0,
+  "spread_pct": 13.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496128129",
+  "name": "Alkaliparisto Varta Longlife Power C 2Kpl",
+  "prices": {
+   "k_rauta_fi": 4.45,
+   "power_fi": 4.9
+  },
+  "min": 4.45,
+  "max": 4.9,
+  "spread_pct": 10.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138586",
+  "name": "Allas Stala Lyria L40 17S Rst",
+  "prices": {
+   "k_rauta_fi": 219.0,
+   "power_fi": 200.99
+  },
+  "min": 200.99,
+  "max": 219.0,
+  "spread_pct": 9.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791243181",
+  "name": "Allas Stala P 50 Monoreuna Rst",
+  "prices": {
+   "k_rauta_fi": 289.0,
+   "power_fi": 265.99
+  },
+  "min": 265.99,
+  "max": 289.0,
+  "spread_pct": 8.7,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394080147",
+  "name": "Aktiivihiilisuodatin Electrolux Mcfb82St",
+  "prices": {
+   "k_rauta_fi": 39.0,
+   "power_fi": 35.99
+  },
+  "min": 35.99,
+  "max": 39.0,
+  "spread_pct": 8.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496559909",
+  "name": "Alkaliparisto Varta Longlife Power 9V 2Kpl",
+  "prices": {
+   "k_rauta_fi": 7.45,
+   "power_fi": 6.99
+  },
+  "min": 6.99,
+  "max": 7.45,
+  "spread_pct": 6.6,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496550777",
+  "name": "Akkuparisto Varta Power D 3000Mah Ladattava 2Kpl",
+  "prices": {
+   "k_rauta_fi": 19.95,
+   "power_fi": 19.0
+  },
+  "min": 19.0,
+  "max": 19.95,
+  "spread_pct": 5.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496931583",
+  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
+  "prices": {
+   "k_rauta_fi": 13.95,
+   "power_fi": 14.5
+  },
+  "min": 13.95,
+  "max": 14.5,
+  "spread_pct": 3.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496559749",
+  "name": "Alkaliparisto Varta Longlife Power Aaa 4Kpl",
+  "prices": {
+   "k_rauta_fi": 4.95,
+   "power_fi": 4.99
+  },
+  "min": 4.95,
+  "max": 4.99,
+  "spread_pct": 0.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496067275",
+  "name": "Alkaliparisto Varta Longlife Power Aa 12 Kpl",
+  "prices": {
+   "k_rauta_fi": 8.95,
+   "power_fi": 8.99
+  },
+  "min": 8.95,
+  "max": 8.99,
+  "spread_pct": 0.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496067046",
+  "name": "Alkaliparisto Varta Longlife Power Aaa 12 Kpl",
+  "prices": {
+   "k_rauta_fi": 8.95,
+   "power_fi": 8.99
+  },
+  "min": 8.95,
+  "max": 8.99,
+  "spread_pct": 0.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496550692",
+  "name": "Akkuparisto Varta Power Ladattava Nimh Aa 2100Mah 4Kpl",
+  "prices": {
+   "k_rauta_fi": 13.95,
+   "power_fi": 13.99
+  },
+  "min": 13.95,
+  "max": 13.99,
+  "spread_pct": 0.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496133529",
+  "name": "Akkuparisto Varta Recharge Power C 3000 Mah 2Kpl",
+  "prices": {
+   "k_rauta_fi": 17.95,
+   "power_fi": 17.9
+  },
+  "min": 17.9,
+  "max": 17.95,
+  "spread_pct": 0.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496133567",
+  "name": "Akkuparisto Varta Recharge Power D 3000 Mah 2Kpl",
+  "prices": {
+   "k_rauta_fi": 17.95,
+   "power_fi": 17.9
+  },
+  "min": 17.9,
+  "max": 17.95,
+  "spread_pct": 0.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394079981",
+  "name": "Aktiivihiilisuodatin Electrolux Mcfb83Pl",
+  "prices": {
+   "k_rauta_fi": 149.0,
+   "power_fi": 149.0
+  },
+  "min": 149.0,
+  "max": 149.0,
+  "spread_pct": 0.0,
+  "match": "exact"
+ }
+]
