@@ -288,6 +288,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:4008496931583",
+  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
+  "prices": {
+   "k_rauta_fi": 13.95,
+   "power_fi": 16.0
+  },
+  "min": 13.95,
+  "max": 16.0,
+  "spread_pct": 14.7,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791138883",
   "name": "Allas Stala Rst Lagom 50 Tilava",
   "prices": {
@@ -369,18 +381,6 @@
   "min": 19.0,
   "max": 19.95,
   "spread_pct": 5.0,
-  "match": "exact"
- },
- {
-  "key": "ean:4008496931583",
-  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
-  "prices": {
-   "k_rauta_fi": 13.95,
-   "power_fi": 14.5
-  },
-  "min": 13.95,
-  "max": 14.5,
-  "spread_pct": 3.9,
   "match": "exact"
  },
  {
