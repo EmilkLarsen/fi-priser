@@ -376,11 +376,11 @@
   "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
   "prices": {
    "k_rauta_fi": 13.95,
-   "power_fi": 14.7
+   "power_fi": 14.8
   },
   "min": 13.95,
-  "max": 14.7,
-  "spread_pct": 5.4,
+  "max": 14.8,
+  "spread_pct": 6.1,
   "match": "exact"
  },
  {
