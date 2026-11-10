@@ -216,6 +216,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:4008496128518",
+  "name": "Alkaliparisto Varta Longlife Power D 2Kpl",
+  "prices": {
+   "k_rauta_fi": 5.95,
+   "power_fi": 4.9
+  },
+  "min": 4.9,
+  "max": 5.95,
+  "spread_pct": 21.4,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791138845",
   "name": "Allas Stala Rst Lagom 34 Pieni",
   "prices": {
@@ -237,18 +249,6 @@
   "min": 219.99,
   "max": 264.0,
   "spread_pct": 20.0,
-  "match": "exact"
- },
- {
-  "key": "ean:4008496128518",
-  "name": "Alkaliparisto Varta Longlife Power D 2Kpl",
-  "prices": {
-   "k_rauta_fi": 5.95,
-   "power_fi": 4.99
-  },
-  "min": 4.99,
-  "max": 5.95,
-  "spread_pct": 19.2,
   "match": "exact"
  },
  {
@@ -297,18 +297,6 @@
   "min": 297.99,
   "max": 339.0,
   "spread_pct": 13.8,
-  "match": "exact"
- },
- {
-  "key": "ean:4008496931583",
-  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
-  "prices": {
-   "k_rauta_fi": 13.95,
-   "power_fi": 15.5
-  },
-  "min": 13.95,
-  "max": 15.5,
-  "spread_pct": 11.1,
   "match": "exact"
  },
  {
@@ -393,6 +381,18 @@
   "min": 19.0,
   "max": 19.95,
   "spread_pct": 5.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496931583",
+  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
+  "prices": {
+   "k_rauta_fi": 13.95,
+   "power_fi": 14.5
+  },
+  "min": 13.95,
+  "max": 14.5,
+  "spread_pct": 3.9,
   "match": "exact"
  },
  {
