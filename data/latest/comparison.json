@@ -1,5 +1,17 @@
 [
  {
+  "key": "ean:5703347531002",
+  "name": "Aktiivihiilisuodatin Thermex Ks 5352305459",
+  "prices": {
+   "k_rauta_fi": 129.0,
+   "power_fi": 41.0
+  },
+  "min": 41.0,
+  "max": 129.0,
+  "spread_pct": 214.6,
+  "match": "exact"
+ },
+ {
   "key": "ean:8720169254503",
   "name": "Aloituspakkaus Philips Hue White And Color Ambience 42W 1200L 2200 6500K 3Xgu10",
   "prices": {
@@ -348,6 +360,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:4008496931583",
+  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
+  "prices": {
+   "k_rauta_fi": 13.95,
+   "power_fi": 15.1
+  },
+  "min": 13.95,
+  "max": 15.1,
+  "spread_pct": 8.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496550692",
   "name": "Akkuparisto Varta Power Ladattava Nimh Aa 2100Mah 4Kpl",
   "prices": {
@@ -381,18 +405,6 @@
   "min": 19.0,
   "max": 19.95,
   "spread_pct": 5.0,
-  "match": "exact"
- },
- {
-  "key": "ean:4008496931583",
-  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
-  "prices": {
-   "k_rauta_fi": 13.95,
-   "power_fi": 14.5
-  },
-  "min": 13.95,
-  "max": 14.5,
-  "spread_pct": 3.9,
   "match": "exact"
  },
  {
