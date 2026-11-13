@@ -2,8 +2,11 @@
  "date": "2026-11-13",
  "chains": {
   "power_fi": {
-   "error": "collapse guard: 30 rows vs 35829 before",
-   "kept_previous": true
+   "products": 34974,
+   "price_changes": 0,
+   "suspicious_changes": 0,
+   "expired": 110,
+   "seconds": 15938.4
   }
  }
 }
