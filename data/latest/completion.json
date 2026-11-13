@@ -3,15 +3,15 @@
  "detail": {
   "byggmax_fi": {
    "rows": 5959,
-   "complete": false
+   "complete": true
   },
   "k_rauta_fi": {
    "rows": 4978,
    "complete": false
   },
   "power_fi": {
-   "rows": 35829,
-   "complete": false
+   "rows": 35784,
+   "complete": true
   }
  }
 }
