@@ -1,5 +1,17 @@
 [
  {
+  "key": "ean:7319926650828",
+  "name": "Autolaturi Gear 1224V 2Xusb",
+  "prices": {
+   "k_rauta_fi": 3.0,
+   "power_fi": 18.99
+  },
+  "min": 3.0,
+  "max": 18.99,
+  "spread_pct": 533.0,
+  "match": "exact"
+ },
+ {
   "key": "ean:5703347531002",
   "name": "Aktiivihiilisuodatin Thermex Ks 5352305459",
   "prices": {
@@ -12,6 +24,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:5060568342368",
+  "name": "Esiliina Ooni Pizzaiolo Apron Musta",
+  "prices": {
+   "k_rauta_fi": 9.99,
+   "power_fi": 24.9
+  },
+  "min": 9.99,
+  "max": 24.9,
+  "spread_pct": 149.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496550814",
   "name": "Akkuparisto Varta Power 9V 200Mah Ladattava",
   "prices": {
@@ -21,6 +45,18 @@
   "min": 4.99,
   "max": 11.95,
   "spread_pct": 139.5,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6411501989109",
+  "name": "Askartelusakset Fiskars Classic 13Cm",
+  "prices": {
+   "k_rauta_fi": 18.9,
+   "power_fi": 9.0
+  },
+  "min": 9.0,
+  "max": 18.9,
+  "spread_pct": 110.0,
   "match": "exact"
  },
  {
@@ -144,6 +180,42 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394107431",
+  "name": "Astianpesukone Electrolux Esa47220Uw 60Cm Valkoinen",
+  "prices": {
+   "k_rauta_fi": 489.0,
+   "power_fi": 699.0
+  },
+  "min": 489.0,
+  "max": 699.0,
+  "spread_pct": 42.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:3838782511653",
+  "name": "Erillisuuni Upo O717W Valkoinen",
+  "prices": {
+   "k_rauta_fi": 349.0,
+   "power_fi": 249.0
+  },
+  "min": 249.0,
+  "max": 349.0,
+  "spread_pct": 40.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394108568",
+  "name": "Astianpesukone Electrolux Eea27200L 60Cm Integroitava",
+  "prices": {
+   "k_rauta_fi": 499.0,
+   "power_fi": 699.0
+  },
+  "min": 499.0,
+  "max": 699.0,
+  "spread_pct": 40.1,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791138562",
   "name": "Allas Stala Lyria L40 40 Rst",
   "prices": {
@@ -153,6 +225,30 @@
   "min": 200.99,
   "max": 279.0,
   "spread_pct": 38.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394156071",
+  "name": "Astianpesukone Electrolux E52Le110S Integroitava",
+  "prices": {
+   "k_rauta_fi": 499.0,
+   "power_fi": 689.0
+  },
+  "min": 499.0,
+  "max": 689.0,
+  "spread_pct": 38.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394175737",
+  "name": "Astianpesukone Electrolux E52Ue100Sx",
+  "prices": {
+   "k_rauta_fi": 559.0,
+   "power_fi": 759.0
+  },
+  "min": 559.0,
+  "max": 759.0,
+  "spread_pct": 35.8,
   "match": "exact"
  },
  {
@@ -180,6 +276,30 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394107561",
+  "name": "Astianpesukone Electrolux Esa47220Ux 60Cm Teras",
+  "prices": {
+   "k_rauta_fi": 559.0,
+   "power_fi": 709.0
+  },
+  "min": 559.0,
+  "max": 709.0,
+  "spread_pct": 26.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7332543732685",
+  "name": "Astianpesukone Electrolux Esa12100Sw 45Cm Valkoinen",
+  "prices": {
+   "k_rauta_fi": 479.0,
+   "power_fi": 379.0
+  },
+  "min": 379.0,
+  "max": 479.0,
+  "spread_pct": 26.4,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496884223",
   "name": "Alkaliparisto Varta 2Kpl Aaaa",
   "prices": {
@@ -204,6 +324,30 @@
   "match": "exact"
  },
  {
+  "key": "ean:8720169265608",
+  "name": "Aurinkokennovalaisin Philips Fyve 200Lm 2700K 15W Musta",
+  "prices": {
+   "k_rauta_fi": 49.95,
+   "power_fi": 39.9
+  },
+  "min": 39.9,
+  "max": 49.95,
+  "spread_pct": 25.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394176550",
+  "name": "Astianpesukone Electrolux E82Lb130S Integroitava",
+  "prices": {
+   "k_rauta_fi": 879.0,
+   "power_fi": 1099.0
+  },
+  "min": 879.0,
+  "max": 1099.0,
+  "spread_pct": 25.0,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791133031",
   "name": "Allas Stala Jazz P 40Pt 5922054 Rst",
   "prices": {
@@ -213,6 +357,18 @@
   "min": 144.99,
   "max": 179.0,
   "spread_pct": 23.5,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394175720",
+  "name": "Astianpesukone Electrolux E52Ue100Sw",
+  "prices": {
+   "k_rauta_fi": 489.0,
+   "power_fi": 399.0
+  },
+  "min": 399.0,
+  "max": 489.0,
+  "spread_pct": 22.6,
   "match": "exact"
  },
  {
@@ -276,6 +432,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:3838782958540",
+  "name": "Astianpesukone Upo Uu642D90W 60Cm Valkoinen",
+  "prices": {
+   "k_rauta_fi": 469.0,
+   "power_fi": 399.0
+  },
+  "min": 399.0,
+  "max": 469.0,
+  "spread_pct": 17.5,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791138593",
   "name": "Allas Stala Lyria L40 S Rst",
   "prices": {
@@ -288,6 +456,30 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394107493",
+  "name": "Astianpesukone Electrolux Ees48400L 60Cm Integroitava",
+  "prices": {
+   "k_rauta_fi": 699.0,
+   "power_fi": 799.0
+  },
+  "min": 699.0,
+  "max": 799.0,
+  "spread_pct": 14.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394156118",
+  "name": "Astianpesukone Electrolux E62Lc200S Integroitava",
+  "prices": {
+   "k_rauta_fi": 699.0,
+   "power_fi": 799.0
+  },
+  "min": 699.0,
+  "max": 799.0,
+  "spread_pct": 14.3,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791138883",
   "name": "Allas Stala Rst Lagom 50 Tilava",
   "prices": {
@@ -297,6 +489,18 @@
   "min": 297.99,
   "max": 339.0,
   "spread_pct": 13.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496747276",
+  "name": "Erikoisparisto Varta Lr1Nlady Alkali 2Kpl",
+  "prices": {
+   "k_rauta_fi": 4.45,
+   "power_fi": 4.99
+  },
+  "min": 4.45,
+  "max": 4.99,
+  "spread_pct": 12.1,
   "match": "exact"
  },
  {
@@ -348,6 +552,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394109831",
+  "name": "Astianpesukone Electrolux Esa17200Uw 60Cm Valkoinen",
+  "prices": {
+   "k_rauta_fi": 409.0,
+   "power_fi": 379.0
+  },
+  "min": 379.0,
+  "max": 409.0,
+  "spread_pct": 7.9,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496550692",
   "name": "Akkuparisto Varta Power Ladattava Nimh Aa 2100Mah 4Kpl",
   "prices": {
@@ -360,6 +576,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:3838782511677",
+  "name": "Erillisuuni Upo Os737Wg Valkoinen",
+  "prices": {
+   "k_rauta_fi": 429.0,
+   "power_fi": 459.0
+  },
+  "min": 429.0,
+  "max": 459.0,
+  "spread_pct": 7.0,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496559909",
   "name": "Alkaliparisto Varta Longlife Power 9V 2Kpl",
   "prices": {
@@ -369,6 +597,18 @@
   "min": 6.99,
   "max": 7.45,
   "spread_pct": 6.6,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7332543738366",
+  "name": "Astianpesukone Electrolux Eeq42200L 45Cm Integroitava",
+  "prices": {
+   "k_rauta_fi": 579.0,
+   "power_fi": 549.0
+  },
+  "min": 549.0,
+  "max": 579.0,
+  "spread_pct": 5.5,
   "match": "exact"
  },
  {
@@ -393,6 +633,30 @@
   "min": 13.95,
   "max": 14.5,
   "spread_pct": 3.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394108377",
+  "name": "Astianpesukone Electrolux Ess42200Sw 45Cm Valkoinen",
+  "prices": {
+   "k_rauta_fi": 489.0,
+   "power_fi": 499.0
+  },
+  "min": 489.0,
+  "max": 499.0,
+  "spread_pct": 2.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394109152",
+  "name": "Astianpesukone Electrolux Ess42200Sx 45Cm Teras",
+  "prices": {
+   "k_rauta_fi": 539.0,
+   "power_fi": 529.0
+  },
+  "min": 529.0,
+  "max": 539.0,
+  "spread_pct": 1.9,
   "match": "exact"
  },
  {
