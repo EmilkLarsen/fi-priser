@@ -72,6 +72,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:5715492211968",
+  "name": "Harjapakkaus Nilfisk Combi Washer 3 Osaa",
+  "prices": {
+   "k_rauta_fi": 27.28,
+   "power_fi": 54.9
+  },
+  "min": 27.28,
+  "max": 54.9,
+  "spread_pct": 101.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496594375",
   "name": "Akkuparisto Varta Power Aaa 1000Mah Ladattava 4Kpl",
   "prices": {
@@ -105,6 +117,18 @@
   "min": 2.99,
   "max": 5.5,
   "spread_pct": 83.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394047973",
+  "name": "Hiilisuodatin Electrolux Mcfb88 Tasotuulettimelle",
+  "prices": {
+   "k_rauta_fi": 109.0,
+   "power_fi": 199.0
+  },
+  "min": 109.0,
+  "max": 199.0,
+  "spread_pct": 82.6,
   "match": "exact"
  },
  {
@@ -165,6 +189,18 @@
   "min": 230.99,
   "max": 364.0,
   "spread_pct": 57.6,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6438171902757",
+  "name": "Hiilisuodatin Savo Hs 49",
+  "prices": {
+   "k_rauta_fi": 24.45,
+   "power_fi": 16.0
+  },
+  "min": 16.0,
+  "max": 24.45,
+  "spread_pct": 52.8,
   "match": "exact"
  },
  {
@@ -264,6 +300,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:6438171902726",
+  "name": "Hiilisuodatin Savo Hs 46",
+  "prices": {
+   "k_rauta_fi": 24.45,
+   "power_fi": 19.0
+  },
+  "min": 19.0,
+  "max": 24.45,
+  "spread_pct": 28.7,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791138579",
   "name": "Allas Stala Lyria L40 17 Rst",
   "prices": {
@@ -348,6 +396,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7315547530006",
+  "name": "Hihalauta Sini Ode 7530",
+  "prices": {
+   "k_rauta_fi": 13.9,
+   "power_fi": 17.0
+  },
+  "min": 13.9,
+  "max": 17.0,
+  "spread_pct": 22.3,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496128518",
   "name": "Alkaliparisto Varta Longlife Power D 2Kpl",
   "prices": {
@@ -393,6 +453,30 @@
   "min": 552.99,
   "max": 659.0,
   "spread_pct": 19.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6438171902764",
+  "name": "Hiilisuodatin Savo Hs 50",
+  "prices": {
+   "k_rauta_fi": 24.45,
+   "power_fi": 29.0
+  },
+  "min": 24.45,
+  "max": 29.0,
+  "spread_pct": 18.6,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6438171902733",
+  "name": "Hiilisuodatin Savo Hs 47",
+  "prices": {
+   "k_rauta_fi": 24.45,
+   "power_fi": 29.0
+  },
+  "min": 24.45,
+  "max": 29.0,
+  "spread_pct": 18.6,
   "match": "exact"
  },
  {
@@ -633,6 +717,18 @@
   "min": 19.0,
   "max": 19.95,
   "spread_pct": 5.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4211125589288",
+  "name": "Heratysvalo Beurer Wl75 225X185Mm 2000Lux",
+  "prices": {
+   "k_rauta_fi": 125.0,
+   "power_fi": 129.99
+  },
+  "min": 125.0,
+  "max": 129.99,
+  "spread_pct": 4.0,
   "match": "exact"
  },
  {
