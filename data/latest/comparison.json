@@ -552,6 +552,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:4211125589288",
+  "name": "Heratysvalo Beurer Wl75 225X185Mm 2000Lux",
+  "prices": {
+   "k_rauta_fi": 125.0,
+   "power_fi": 109.99
+  },
+  "min": 109.99,
+  "max": 125.0,
+  "spread_pct": 13.6,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496747276",
   "name": "Erikoisparisto Varta Lr1Nlady Alkali 2Kpl",
   "prices": {
@@ -624,18 +636,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:4008496931583",
-  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
-  "prices": {
-   "k_rauta_fi": 13.95,
-   "power_fi": 15.1
-  },
-  "min": 13.95,
-  "max": 15.1,
-  "spread_pct": 8.2,
-  "match": "exact"
- },
- {
   "key": "ean:7333394109831",
   "name": "Astianpesukone Electrolux Esa17200Uw 60Cm Valkoinen",
   "prices": {
@@ -696,6 +696,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:4008496931583",
+  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
+  "prices": {
+   "k_rauta_fi": 13.95,
+   "power_fi": 14.8
+  },
+  "min": 13.95,
+  "max": 14.8,
+  "spread_pct": 6.1,
+  "match": "exact"
+ },
+ {
   "key": "ean:7332543738366",
   "name": "Astianpesukone Electrolux Eeq42200L 45Cm Integroitava",
   "prices": {
@@ -717,18 +729,6 @@
   "min": 19.0,
   "max": 19.95,
   "spread_pct": 5.0,
-  "match": "exact"
- },
- {
-  "key": "ean:4211125589288",
-  "name": "Heratysvalo Beurer Wl75 225X185Mm 2000Lux",
-  "prices": {
-   "k_rauta_fi": 125.0,
-   "power_fi": 129.99
-  },
-  "min": 125.0,
-  "max": 129.99,
-  "spread_pct": 4.0,
   "match": "exact"
  },
  {
