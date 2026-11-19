@@ -96,6 +96,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7315547587024",
+  "name": "Hoyrysilityslaudanpaallinen Sini Mary 7587",
+  "prices": {
+   "k_rauta_fi": 7.25,
+   "power_fi": 13.99
+  },
+  "min": 7.25,
+  "max": 13.99,
+  "spread_pct": 93.0,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496559671",
   "name": "Alkaliparisto Varta Longlife Power Aa 12Kpl",
   "prices": {
@@ -168,6 +180,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394088341",
+  "name": "Jaakaappi Electrolux Lrt6Me38W2 Valkoinen",
+  "prices": {
+   "k_rauta_fi": 749.0,
+   "power_fi": 1199.0
+  },
+  "min": 749.0,
+  "max": 1199.0,
+  "spread_pct": 60.1,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496559237",
   "name": "Alkaliparisto Varta Longlife Power D 2Kpl",
   "prices": {
@@ -204,6 +228,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394159997",
+  "name": "Jaakaappi Electrolux Era7De18S Integroitava",
+  "prices": {
+   "k_rauta_fi": 949.0,
+   "power_fi": 649.0
+  },
+  "min": 649.0,
+  "max": 949.0,
+  "spread_pct": 46.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791138371",
   "name": "Allas Stala Ceg5157B Komposiitti",
   "prices": {
@@ -213,6 +249,66 @@
   "min": 279.98,
   "max": 409.0,
   "spread_pct": 46.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7090013678245",
+  "name": "Ilmanvaihtoritila Temptech 600X80Mm Musta",
+  "prices": {
+   "k_rauta_fi": 39.0,
+   "power_fi": 27.0
+  },
+  "min": 27.0,
+  "max": 39.0,
+  "spread_pct": 44.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7090013678238",
+  "name": "Ilmanvaihtoritila Temptech 300X80Mm Musta",
+  "prices": {
+   "k_rauta_fi": 39.0,
+   "power_fi": 27.0
+  },
+  "min": 27.0,
+  "max": 39.0,
+  "spread_pct": 44.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:3838782734847",
+  "name": "Jaakaappipakastin Upo Ucn62Ew Valkoinen",
+  "prices": {
+   "k_rauta_fi": 529.0,
+   "power_fi": 369.0
+  },
+  "min": 369.0,
+  "max": 529.0,
+  "spread_pct": 43.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7332543996384",
+  "name": "Jaakaappi Pakastin Electrolux Lnt6Me32W2 Valkoinen",
+  "prices": {
+   "k_rauta_fi": 649.0,
+   "power_fi": 454.41
+  },
+  "min": 454.41,
+  "max": 649.0,
+  "spread_pct": 42.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394035550",
+  "name": "Jaakaappi Electrolux Ers3De39X Teras",
+  "prices": {
+   "k_rauta_fi": 639.0,
+   "power_fi": 899.0
+  },
+  "min": 639.0,
+  "max": 899.0,
+  "spread_pct": 40.7,
   "match": "exact"
  },
  {
@@ -252,6 +348,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:6417791162222",
+  "name": "Jatevaunu Stala Ekoline Eko 3Sk",
+  "prices": {
+   "k_rauta_fi": 88.87,
+   "power_fi": 121.0
+  },
+  "min": 88.87,
+  "max": 121.0,
+  "spread_pct": 36.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394175737",
   "name": "Astianpesukone Electrolux E52Ue100Sx",
   "prices": {
@@ -261,6 +369,18 @@
   "min": 559.0,
   "max": 759.0,
   "spread_pct": 35.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791162185",
+  "name": "Jatevaunu Stala Ekoline Eko 2Pk",
+  "prices": {
+   "k_rauta_fi": 53.14,
+   "power_fi": 72.0
+  },
+  "min": 53.14,
+  "max": 72.0,
+  "spread_pct": 35.5,
   "match": "exact"
  },
  {
@@ -288,6 +408,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394133263",
+  "name": "Jaakaappi Pakastin Electrolux Lna6Le18S Integroitava",
+  "prices": {
+   "k_rauta_fi": 779.0,
+   "power_fi": 599.0
+  },
+  "min": 599.0,
+  "max": 779.0,
+  "spread_pct": 30.1,
+  "match": "exact"
+ },
+ {
   "key": "ean:6438171902726",
   "name": "Hiilisuodatin Savo Hs 46",
   "prices": {
@@ -297,6 +429,18 @@
   "min": 19.0,
   "max": 24.45,
   "spread_pct": 28.7,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791162307",
+  "name": "Jatelajittelu Biokansi 10L Astiaan 23X17845Cm Y1240",
+  "prices": {
+   "k_rauta_fi": 24.18,
+   "power_fi": 31.0
+  },
+  "min": 24.18,
+  "max": 31.0,
+  "spread_pct": 28.2,
   "match": "exact"
  },
  {
@@ -320,6 +464,18 @@
   },
   "min": 559.0,
   "max": 709.0,
+  "spread_pct": 26.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:5412810211517",
+  "name": "Ip Kamera Konig Ipcam110B Musta",
+  "prices": {
+   "k_rauta_fi": 100.2,
+   "power_fi": 79.0
+  },
+  "min": 79.0,
+  "max": 100.2,
   "spread_pct": 26.8,
   "match": "exact"
  },
@@ -372,6 +528,30 @@
   "match": "exact"
  },
  {
+  "key": "ean:7315549730008",
+  "name": "Hoyrysilityslauta Sini Andante 32X112Cm 9730",
+  "prices": {
+   "k_rauta_fi": 44.9,
+   "power_fi": 35.99
+  },
+  "min": 35.99,
+  "max": 44.9,
+  "spread_pct": 24.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394014166",
+  "name": "Jaakaappi Pakastin Electrolux Lnb1Le34Xr Teras",
+  "prices": {
+   "k_rauta_fi": 599.0,
+   "power_fi": 483.85
+  },
+  "min": 483.85,
+  "max": 599.0,
+  "spread_pct": 23.8,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791133031",
   "name": "Allas Stala Jazz P 40Pt 5922054 Rst",
   "prices": {
@@ -420,6 +600,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394139890",
+  "name": "Induktiotasoliesituuletin Electrolux Hhob6T0C",
+  "prices": {
+   "k_rauta_fi": 1399.0,
+   "power_fi": 1699.0
+  },
+  "min": 1399.0,
+  "max": 1699.0,
+  "spread_pct": 21.4,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791138784",
   "name": "Allas Stala Lyria L50 60 Rst",
   "prices": {
@@ -429,6 +621,18 @@
   "min": 219.99,
   "max": 264.0,
   "spread_pct": 20.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394014418",
+  "name": "Jaakaappi Pakastin Electrolux Lnb1Le34Wr Valkoinen",
+  "prices": {
+   "k_rauta_fi": 569.0,
+   "power_fi": 476.29
+  },
+  "min": 476.29,
+  "max": 569.0,
+  "spread_pct": 19.5,
   "match": "exact"
  },
  {
@@ -468,6 +672,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394012353",
+  "name": "Jaakaappi Pakastin Electrolux Ltb1Ae24W0 Valkoinen",
+  "prices": {
+   "k_rauta_fi": 449.0,
+   "power_fi": 379.0
+  },
+  "min": 379.0,
+  "max": 449.0,
+  "spread_pct": 18.5,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791138876",
   "name": "Allas Stala Rst Lagom 40 Nelio",
   "prices": {
@@ -492,6 +708,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:6417791162314",
+  "name": "Jatelajittelu Biokansi Vaihtosuodatin X4",
+  "prices": {
+   "k_rauta_fi": 16.45,
+   "power_fi": 14.0
+  },
+  "min": 14.0,
+  "max": 16.45,
+  "spread_pct": 17.5,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791138593",
   "name": "Allas Stala Lyria L40 S Rst",
   "prices": {
@@ -501,6 +729,18 @@
   "min": 165.99,
   "max": 194.0,
   "spread_pct": 16.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394146386",
+  "name": "Jaakaappi Electrolux Lfs3Se82R",
+  "prices": {
+   "k_rauta_fi": 699.0,
+   "power_fi": 599.0
+  },
+  "min": 599.0,
+  "max": 699.0,
+  "spread_pct": 16.7,
   "match": "exact"
  },
  {
@@ -552,6 +792,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394035536",
+  "name": "Jaakaappi Electrolux Ers3De39W Valkoinen",
+  "prices": {
+   "k_rauta_fi": 589.0,
+   "power_fi": 521.65
+  },
+  "min": 521.65,
+  "max": 589.0,
+  "spread_pct": 12.9,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394107431",
   "name": "Astianpesukone Electrolux Esa47220Uw 60Cm Valkoinen",
   "prices": {
@@ -572,6 +824,18 @@
   },
   "min": 4.45,
   "max": 4.99,
+  "spread_pct": 12.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394146805",
+  "name": "Jaakaappi Electrolux Lxs3Se82R Integroitava",
+  "prices": {
+   "k_rauta_fi": 649.0,
+   "power_fi": 579.0
+  },
+  "min": 579.0,
+  "max": 649.0,
   "spread_pct": 12.1,
   "match": "exact"
  },
@@ -597,6 +861,18 @@
   "min": 4.45,
   "max": 4.9,
   "spread_pct": 10.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394035543",
+  "name": "Jaakaappi Electrolux Ers3De39K Matta Musta",
+  "prices": {
+   "k_rauta_fi": 639.0,
+   "power_fi": 699.0
+  },
+  "min": 639.0,
+  "max": 699.0,
+  "spread_pct": 9.4,
   "match": "exact"
  },
  {
@@ -660,6 +936,30 @@
   "match": "exact"
  },
  {
+  "key": "ean:7332543740246",
+  "name": "Jaakaappi Electrolux Lxb1Ae13W0 Valkoinen",
+  "prices": {
+   "k_rauta_fi": 299.0,
+   "power_fi": 279.0
+  },
+  "min": 279.0,
+  "max": 299.0,
+  "spread_pct": 7.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7332543996377",
+  "name": "Jaakaappi Pakastin Electrolux Lnt6Me32U2 Teras",
+  "prices": {
+   "k_rauta_fi": 699.0,
+   "power_fi": 749.0
+  },
+  "min": 699.0,
+  "max": 749.0,
+  "spread_pct": 7.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:3838782511677",
   "name": "Erillisuuni Upo Os737Wg Valkoinen",
   "prices": {
@@ -669,6 +969,18 @@
   "min": 429.0,
   "max": 459.0,
   "spread_pct": 7.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791243167",
+  "name": "Jateastia Stala Ekoline Y 1251 10L",
+  "prices": {
+   "k_rauta_fi": 14.95,
+   "power_fi": 14.0
+  },
+  "min": 14.0,
+  "max": 14.95,
+  "spread_pct": 6.8,
   "match": "exact"
  },
  {
@@ -693,6 +1005,30 @@
   "min": 449.99,
   "max": 479.0,
   "spread_pct": 6.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4054278975818",
+  "name": "Hoyrypesuri Karcher Sc 1",
+  "prices": {
+   "k_rauta_fi": 83.9,
+   "power_fi": 89.0
+  },
+  "min": 83.9,
+  "max": 89.0,
+  "spread_pct": 6.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394131849",
+  "name": "Jaakaappi Pakastin Electrolux Ena7Ne18S Integroitava",
+  "prices": {
+   "k_rauta_fi": 899.0,
+   "power_fi": 949.0
+  },
+  "min": 899.0,
+  "max": 949.0,
+  "spread_pct": 5.6,
   "match": "exact"
  },
  {
@@ -732,6 +1068,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7332543740123",
+  "name": "Jaakaappi Electrolux Lxb1Se11W0 Valkoinen",
+  "prices": {
+   "k_rauta_fi": 309.0,
+   "power_fi": 299.0
+  },
+  "min": 299.0,
+  "max": 309.0,
+  "spread_pct": 3.3,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394108377",
   "name": "Astianpesukone Electrolux Ess42200Sw 45Cm Valkoinen",
   "prices": {
@@ -765,6 +1113,18 @@
   "min": 4.95,
   "max": 4.99,
   "spread_pct": 0.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496808052",
+  "name": "Avaimenperavalo Varta Indestructible",
+  "prices": {
+   "k_rauta_fi": 6.95,
+   "power_fi": 6.9
+  },
+  "min": 6.9,
+  "max": 6.95,
+  "spread_pct": 0.7,
   "match": "exact"
  },
  {
@@ -824,6 +1184,18 @@
   },
   "min": 149.0,
   "max": 149.0,
+  "spread_pct": 0.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4054278475110",
+  "name": "Jaaraappa Karcher Edi 4 Akkukayttoinen",
+  "prices": {
+   "k_rauta_fi": 39.9,
+   "power_fi": 39.9
+  },
+  "min": 39.9,
+  "max": 39.9,
   "spread_pct": 0.0,
   "match": "exact"
  }
