@@ -9,19 +9,15 @@
    "expired": 0,
    "seconds": 5486.3
   },
-  "k_rauta_fi": {
-   "products": 19570,
-   "price_changes": 0,
-   "suspicious_changes": 0,
-   "expired": 0,
-   "seconds": 18043.0
-  },
   "power_fi": {
    "products": 34697,
    "price_changes": 0,
    "suspicious_changes": 0,
    "expired": 15,
    "seconds": 15918.4
+  },
+  "k_rauta_fi": {
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   }
  }
 }
