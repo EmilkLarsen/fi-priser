@@ -744,6 +744,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394035543",
+  "name": "Jaakaappi Electrolux Ers3De39K Matta Musta",
+  "prices": {
+   "k_rauta_fi": 639.0,
+   "power_fi": 549.0
+  },
+  "min": 549.0,
+  "max": 639.0,
+  "spread_pct": 16.4,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394107493",
   "name": "Astianpesukone Electrolux Ees48400L 60Cm Integroitava",
   "prices": {
@@ -861,18 +873,6 @@
   "min": 4.45,
   "max": 4.9,
   "spread_pct": 10.1,
-  "match": "exact"
- },
- {
-  "key": "ean:7333394035543",
-  "name": "Jaakaappi Electrolux Ers3De39K Matta Musta",
-  "prices": {
-   "k_rauta_fi": 639.0,
-   "power_fi": 699.0
-  },
-  "min": 639.0,
-  "max": 699.0,
-  "spread_pct": 9.4,
   "match": "exact"
  },
  {
