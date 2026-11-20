@@ -24,6 +24,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:8719514341135",
+  "name": "Kattovalaisin Philips Hue Being Musta",
+  "prices": {
+   "k_rauta_fi": 210.0,
+   "power_fi": 83.9
+  },
+  "min": 83.9,
+  "max": 210.0,
+  "spread_pct": 150.3,
+  "match": "exact"
+ },
+ {
   "key": "ean:5060568342368",
   "name": "Esiliina Ooni Pizzaiolo Apron Musta",
   "prices": {
@@ -81,6 +93,18 @@
   "min": 27.28,
   "max": 54.9,
   "spread_pct": 101.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8718696176429",
+  "name": "Kattovalaisin Philips Hue Enrave S Musta",
+  "prices": {
+   "k_rauta_fi": 126.0,
+   "power_fi": 62.9
+  },
+  "min": 62.9,
+  "max": 126.0,
+  "spread_pct": 100.3,
   "match": "exact"
  },
  {
@@ -228,6 +252,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394144788",
+  "name": "Kalusteuuni Electrolux Copp10K Pyrolyysi",
+  "prices": {
+   "k_rauta_fi": 639.0,
+   "power_fi": 432.18
+  },
+  "min": 432.18,
+  "max": 639.0,
+  "spread_pct": 47.9,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394159997",
   "name": "Jaakaappi Electrolux Era7De18S Integroitava",
   "prices": {
@@ -345,6 +381,18 @@
   "min": 499.0,
   "max": 689.0,
   "spread_pct": 38.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8719514327160",
+  "name": "Kattovalaisin Philips Superslim 36W 27K Musta",
+  "prices": {
+   "k_rauta_fi": 134.0,
+   "power_fi": 97.9
+  },
+  "min": 97.9,
+  "max": 134.0,
+  "spread_pct": 36.9,
   "match": "exact"
  },
  {
@@ -804,6 +852,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394115580",
+  "name": "Kalusteuuni Electrolux Cob500B Musta",
+  "prices": {
+   "k_rauta_fi": 529.0,
+   "power_fi": 599.0
+  },
+  "min": 529.0,
+  "max": 599.0,
+  "spread_pct": 13.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394035536",
   "name": "Jaakaappi Electrolux Ers3De39W Valkoinen",
   "prices": {
@@ -1044,6 +1104,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:8719514326729",
+  "name": "Kattovalaisin Philips Panel 36W 27K Valkoinen",
+  "prices": {
+   "k_rauta_fi": 114.0,
+   "power_fi": 119.9
+  },
+  "min": 114.0,
+  "max": 119.9,
+  "spread_pct": 5.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496550777",
   "name": "Akkuparisto Varta Power D 3000Mah Ladattava 2Kpl",
   "prices": {
@@ -1065,6 +1137,30 @@
   "min": 13.95,
   "max": 14.5,
   "spread_pct": 3.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394118949",
+  "name": "Kalusteuuni Electrolux Cob402V Valkoinen",
+  "prices": {
+   "k_rauta_fi": 529.0,
+   "power_fi": 549.0
+  },
+  "min": 529.0,
+  "max": 549.0,
+  "spread_pct": 3.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394115382",
+  "name": "Kalusteuuni Electrolux Cob402X Teras",
+  "prices": {
+   "k_rauta_fi": 529.0,
+   "power_fi": 549.0
+  },
+  "min": 529.0,
+  "max": 549.0,
+  "spread_pct": 3.8,
   "match": "exact"
  },
  {
