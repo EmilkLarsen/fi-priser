@@ -972,18 +972,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:7333394109831",
-  "name": "Astianpesukone Electrolux Esa17200Uw 60Cm Valkoinen",
-  "prices": {
-   "k_rauta_fi": 409.0,
-   "power_fi": 379.0
-  },
-  "min": 379.0,
-  "max": 409.0,
-  "spread_pct": 7.9,
-  "match": "exact"
- },
- {
   "key": "ean:4008496550692",
   "name": "Akkuparisto Varta Power Ladattava Nimh Aa 2100Mah 4Kpl",
   "prices": {
@@ -1044,6 +1032,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7332543732685",
+  "name": "Astianpesukone Electrolux Esa12100Sw 45Cm Valkoinen",
+  "prices": {
+   "k_rauta_fi": 479.0,
+   "power_fi": 449.0
+  },
+  "min": 449.0,
+  "max": 479.0,
+  "spread_pct": 6.7,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496559909",
   "name": "Alkaliparisto Varta Longlife Power 9V 2Kpl",
   "prices": {
@@ -1053,18 +1053,6 @@
   "min": 6.99,
   "max": 7.45,
   "spread_pct": 6.6,
-  "match": "exact"
- },
- {
-  "key": "ean:7332543732685",
-  "name": "Astianpesukone Electrolux Esa12100Sw 45Cm Valkoinen",
-  "prices": {
-   "k_rauta_fi": 479.0,
-   "power_fi": 449.99
-  },
-  "min": 449.99,
-  "max": 479.0,
-  "spread_pct": 6.4,
   "match": "exact"
  },
  {
@@ -1128,15 +1116,15 @@
   "match": "exact"
  },
  {
-  "key": "ean:4008496931583",
-  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
+  "key": "ean:7333394176703",
+  "name": "Astianpesukone Electrolux E82Lc520S Integroitava",
   "prices": {
-   "k_rauta_fi": 13.95,
-   "power_fi": 14.5
+   "k_rauta_fi": 1249.0,
+   "power_fi": 1299.0
   },
-  "min": 13.95,
-  "max": 14.5,
-  "spread_pct": 3.9,
+  "min": 1249.0,
+  "max": 1299.0,
+  "spread_pct": 4.0,
   "match": "exact"
  },
  {
@@ -1176,6 +1164,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394109831",
+  "name": "Astianpesukone Electrolux Esa17200Uw 60Cm Valkoinen",
+  "prices": {
+   "k_rauta_fi": 409.0,
+   "power_fi": 399.0
+  },
+  "min": 399.0,
+  "max": 409.0,
+  "spread_pct": 2.5,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394108377",
   "name": "Astianpesukone Electrolux Ess42200Sw 45Cm Valkoinen",
   "prices": {
@@ -1197,6 +1197,18 @@
   "min": 529.0,
   "max": 539.0,
   "spread_pct": 1.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496931583",
+  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
+  "prices": {
+   "k_rauta_fi": 13.95,
+   "power_fi": 14.2
+  },
+  "min": 13.95,
+  "max": 14.2,
+  "spread_pct": 1.8,
   "match": "exact"
  },
  {
