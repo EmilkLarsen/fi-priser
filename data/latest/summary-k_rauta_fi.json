@@ -2,7 +2,11 @@
  "date": "2026-11-21",
  "chains": {
   "k_rauta_fi": {
-   "error": "HTTPError: HTTP Error 403: Forbidden"
+   "products": 27879,
+   "price_changes": 0,
+   "suspicious_changes": 0,
+   "expired": 0,
+   "seconds": 13755.0
   }
  }
 }
