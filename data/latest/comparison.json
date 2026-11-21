@@ -48,6 +48,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:8718699789220",
+  "name": "Kaukosaadin Wiz Wizmote",
+  "prices": {
+   "k_rauta_fi": 19.18,
+   "power_fi": 7.9
+  },
+  "min": 7.9,
+  "max": 19.18,
+  "spread_pct": 142.8,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496550814",
   "name": "Akkuparisto Varta Power 9V 200Mah Ladattava",
   "prices": {
@@ -120,6 +132,30 @@
   "match": "exact"
  },
  {
+  "key": "ean:8720169320475",
+  "name": "Kohdevalaisin Philips Hue Runner 2X42 W 800L 2200 6500K Valkoinen",
+  "prices": {
+   "k_rauta_fi": 169.0,
+   "power_fi": 84.9
+  },
+  "min": 84.9,
+  "max": 169.0,
+  "spread_pct": 99.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8720169320536",
+  "name": "Kohdevalaisin Philips Hue Runner 3X42 W 1200L 2200 6500K Valkoinen",
+  "prices": {
+   "k_rauta_fi": 229.0,
+   "power_fi": 117.9
+  },
+  "min": 117.9,
+  "max": 229.0,
+  "spread_pct": 94.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:7315547587024",
   "name": "Hoyrysilityslaudanpaallinen Sini Mary 7587",
   "prices": {
@@ -129,6 +165,18 @@
   "min": 7.25,
   "max": 13.99,
   "spread_pct": 93.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:8720169320413",
+  "name": "Kohdevalaisin Philips Hue Runner 3X42 W 1200L 2200 6500K Musta",
+  "prices": {
+   "k_rauta_fi": 229.0,
+   "power_fi": 121.9
+  },
+  "min": 121.9,
+  "max": 229.0,
+  "spread_pct": 87.9,
   "match": "exact"
  },
  {
@@ -192,6 +240,42 @@
   "match": "exact"
  },
  {
+  "key": "ean:4050300958019",
+  "name": "Kodinkonelamppu Osram 15W E14 2Kpl",
+  "prices": {
+   "k_rauta_fi": 9.95,
+   "power_fi": 5.8
+  },
+  "min": 5.8,
+  "max": 9.95,
+  "spread_pct": 71.6,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791244065",
+  "name": "Keittioallas Stala Essent Ceg E34B",
+  "prices": {
+   "k_rauta_fi": 419.0,
+   "power_fi": 244.74
+  },
+  "min": 244.74,
+  "max": 419.0,
+  "spread_pct": 71.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791244072",
+  "name": "Keittioallas Stala Essent Ceg E40B",
+  "prices": {
+   "k_rauta_fi": 444.0,
+   "power_fi": 269.28
+  },
+  "min": 269.28,
+  "max": 444.0,
+  "spread_pct": 64.9,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791138791",
   "name": "Allas Stala Ceg40 50B Komposiitti",
   "prices": {
@@ -213,6 +297,18 @@
   "min": 749.0,
   "max": 1199.0,
   "spread_pct": 60.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791244089",
+  "name": "Keittioallas Stala Essent Ceg E50B",
+  "prices": {
+   "k_rauta_fi": 459.0,
+   "power_fi": 287.69
+  },
+  "min": 287.69,
+  "max": 459.0,
+  "spread_pct": 59.5,
   "match": "exact"
  },
  {
@@ -312,6 +408,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7332543828685",
+  "name": "Keittotaso Electrolux Hoi624S 60Cm Induktio",
+  "prices": {
+   "k_rauta_fi": 359.0,
+   "power_fi": 249.0
+  },
+  "min": 249.0,
+  "max": 359.0,
+  "spread_pct": 44.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:3838782734847",
   "name": "Jaakaappipakastin Upo Ucn62Ew Valkoinen",
   "prices": {
@@ -333,6 +441,18 @@
   "min": 454.41,
   "max": 649.0,
   "spread_pct": 42.8,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6970229250316",
+  "name": "Kirkasvalolamppu Beurer Tl95 475X300Mm 13000Lux",
+  "prices": {
+   "k_rauta_fi": 239.0,
+   "power_fi": 169.0
+  },
+  "min": 169.0,
+  "max": 239.0,
+  "spread_pct": 41.4,
   "match": "exact"
  },
  {
@@ -432,6 +552,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:5708516823209",
+  "name": "Keittiohana Damixa 7408100 Silhouet Pkv",
+  "prices": {
+   "k_rauta_fi": 201.4,
+   "power_fi": 269.0
+  },
+  "min": 201.4,
+  "max": 269.0,
+  "spread_pct": 33.6,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496745975",
   "name": "Akkuparisto Varta Power Aa 2600Mah Ladattava 4Kpl",
   "prices": {
@@ -468,6 +600,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:6417791138920",
+  "name": "Keittioallas Stala Rst Allas Lagom T40 Hana Alue",
+  "prices": {
+   "k_rauta_fi": 349.0,
+   "power_fi": 270.0
+  },
+  "min": 270.0,
+  "max": 349.0,
+  "spread_pct": 29.3,
+  "match": "exact"
+ },
+ {
   "key": "ean:6438171902726",
   "name": "Hiilisuodatin Savo Hs 46",
   "prices": {
@@ -489,6 +633,18 @@
   "min": 24.18,
   "max": 31.0,
   "spread_pct": 28.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138913",
+  "name": "Keittioallas Stala Rst Allas Lagom T34 Hana Alue",
+  "prices": {
+   "k_rauta_fi": 324.0,
+   "power_fi": 253.0
+  },
+  "min": 253.0,
+  "max": 324.0,
+  "spread_pct": 28.1,
   "match": "exact"
  },
  {
@@ -552,6 +708,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:6417791135004",
+  "name": "Kodinhoitoallas Stala Jazz P 40 T Seinaasennettava",
+  "prices": {
+   "k_rauta_fi": 179.0,
+   "power_fi": 141.99
+  },
+  "min": 141.99,
+  "max": 179.0,
+  "spread_pct": 26.1,
+  "match": "exact"
+ },
+ {
   "key": "ean:8720169265608",
   "name": "Aurinkokennovalaisin Philips Fyve 200Lm 2700K 15W Musta",
   "prices": {
@@ -564,6 +732,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7332543484188",
+  "name": "Keittotaso Electrolux Hoc620F 60Cm Keraaminen",
+  "prices": {
+   "k_rauta_fi": 279.0,
+   "power_fi": 349.0
+  },
+  "min": 279.0,
+  "max": 349.0,
+  "spread_pct": 25.1,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394176550",
   "name": "Astianpesukone Electrolux E82Lb130S Integroitava",
   "prices": {
@@ -573,6 +753,18 @@
   "min": 879.0,
   "max": 1099.0,
   "spread_pct": 25.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4211125608132",
+  "name": "Kirkasvalolamppu Beurer Tl45 Perfect Day 200X200Mm 10000Lux",
+  "prices": {
+   "k_rauta_fi": 99.9,
+   "power_fi": 79.99
+  },
+  "min": 79.99,
+  "max": 99.9,
+  "spread_pct": 24.9,
   "match": "exact"
  },
  {
@@ -612,6 +804,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394025216",
+  "name": "Keittotaso Electrolux Hoi630Mf 60Cm Induktio",
+  "prices": {
+   "k_rauta_fi": 489.0,
+   "power_fi": 399.0
+  },
+  "min": 399.0,
+  "max": 489.0,
+  "spread_pct": 22.6,
+  "match": "exact"
+ },
+ {
   "key": "ean:7315547530006",
   "name": "Hihalauta Sini Ode 7530",
   "prices": {
@@ -621,6 +825,30 @@
   "min": 13.9,
   "max": 17.0,
   "spread_pct": 22.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138937",
+  "name": "Keittioallas Stala Rst Allas Lagom T50 Hana Alue",
+  "prices": {
+   "k_rauta_fi": 379.0,
+   "power_fi": 310.0
+  },
+  "min": 310.0,
+  "max": 379.0,
+  "spread_pct": 22.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6970229250293",
+  "name": "Kirkasvalolamppu Beurer Tl85 450X300Mm 12000Lux",
+  "prices": {
+   "k_rauta_fi": 169.0,
+   "power_fi": 139.0
+  },
+  "min": 139.0,
+  "max": 169.0,
+  "spread_pct": 21.6,
   "match": "exact"
  },
  {
@@ -657,6 +885,18 @@
   "min": 1399.0,
   "max": 1699.0,
   "spread_pct": 21.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:6417791138821",
+  "name": "Keittioallas Stala Lagom 18 34 Rst",
+  "prices": {
+   "k_rauta_fi": 614.0,
+   "power_fi": 739.0
+  },
+  "min": 614.0,
+  "max": 739.0,
+  "spread_pct": 20.4,
   "match": "exact"
  },
  {
@@ -732,6 +972,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:6970229250545",
+  "name": "Kirkasvalolamppu Beurer Tl35 155X250Mm 10000Lux",
+  "prices": {
+   "k_rauta_fi": 69.9,
+   "power_fi": 59.0
+  },
+  "min": 59.0,
+  "max": 69.9,
+  "spread_pct": 18.5,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791138876",
   "name": "Allas Stala Rst Lagom 40 Nelio",
   "prices": {
@@ -741,6 +993,18 @@
   "min": 252.99,
   "max": 299.0,
   "spread_pct": 18.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:5708516815419",
+  "name": "Keittiohana Damixa Pine 17061",
+  "prices": {
+   "k_rauta_fi": 191.29,
+   "power_fi": 225.9
+  },
+  "min": 191.29,
+  "max": 225.9,
+  "spread_pct": 18.1,
   "match": "exact"
  },
  {
@@ -792,6 +1056,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7332543983094",
+  "name": "Keittotaso Electrolux Hoi336F 30Cm Induktio",
+  "prices": {
+   "k_rauta_fi": 349.0,
+   "power_fi": 299.0
+  },
+  "min": 299.0,
+  "max": 349.0,
+  "spread_pct": 16.7,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394035543",
   "name": "Jaakaappi Electrolux Ers3De39K Matta Musta",
   "prices": {
@@ -801,6 +1077,18 @@
   "min": 549.0,
   "max": 639.0,
   "spread_pct": 16.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7320896010970",
+  "name": "Kaukosaadin Housegard System1 Rc400 868Mhz",
+  "prices": {
+   "k_rauta_fi": 15.0,
+   "power_fi": 12.9
+  },
+  "min": 12.9,
+  "max": 15.0,
+  "spread_pct": 16.3,
   "match": "exact"
  },
  {
@@ -924,6 +1212,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:3838782780400",
+  "name": "Keittotaso Upo Ui6421Bc Induktio",
+  "prices": {
+   "k_rauta_fi": 359.0,
+   "power_fi": 397.0
+  },
+  "min": 359.0,
+  "max": 397.0,
+  "spread_pct": 10.6,
+  "match": "exact"
+ },
+ {
   "key": "ean:4008496128129",
   "name": "Alkaliparisto Varta Longlife Power C 2Kpl",
   "prices": {
@@ -933,6 +1233,18 @@
   "min": 4.45,
   "max": 4.9,
   "spread_pct": 10.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394013770",
+  "name": "Keittotaso Electrolux Hhhb760S 68Cm Induktio Liesituulettimella",
+  "prices": {
+   "k_rauta_fi": 1649.0,
+   "power_fi": 1799.0
+  },
+  "min": 1649.0,
+  "max": 1799.0,
+  "spread_pct": 9.1,
   "match": "exact"
  },
  {
@@ -1008,6 +1320,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7332543484201",
+  "name": "Keittotaso Electrolux Hoc620X 60Cm Keraaminen Teras",
+  "prices": {
+   "k_rauta_fi": 279.0,
+   "power_fi": 299.0
+  },
+  "min": 279.0,
+  "max": 299.0,
+  "spread_pct": 7.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:3838782511677",
   "name": "Erillisuuni Upo Os737Wg Valkoinen",
   "prices": {
@@ -1068,6 +1392,30 @@
   "match": "exact"
  },
  {
+  "key": "ean:5708516827931",
+  "name": "Keittiohana Damixa 7408187 Silhouet Pkv Kupari",
+  "prices": {
+   "k_rauta_fi": 359.0,
+   "power_fi": 339.11
+  },
+  "min": 339.11,
+  "max": 359.0,
+  "spread_pct": 5.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:5708516827924",
+  "name": "Keittiohana Damixa Silhouet 7408179 Pkv Harjattu Messinki",
+  "prices": {
+   "k_rauta_fi": 359.0,
+   "power_fi": 339.11
+  },
+  "min": 339.11,
+  "max": 359.0,
+  "spread_pct": 5.9,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394131849",
   "name": "Jaakaappi Pakastin Electrolux Ena7Ne18S Integroitava",
   "prices": {
@@ -1116,6 +1464,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7332543982950",
+  "name": "Keittotaso Electrolux Hoc336F 30Cm Keraaminen",
+  "prices": {
+   "k_rauta_fi": 249.0,
+   "power_fi": 239.0
+  },
+  "min": 239.0,
+  "max": 249.0,
+  "spread_pct": 4.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394176703",
   "name": "Astianpesukone Electrolux E82Lc520S Integroitava",
   "prices": {
@@ -1161,6 +1521,18 @@
   "min": 299.0,
   "max": 309.0,
   "spread_pct": 3.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:3838997911354",
+  "name": "Keittioallas Alveus Atrox 30 Carbon Komposiitti",
+  "prices": {
+   "k_rauta_fi": 399.0,
+   "power_fi": 389.0
+  },
+  "min": 389.0,
+  "max": 399.0,
+  "spread_pct": 2.6,
   "match": "exact"
  },
  {
