@@ -3,10 +3,10 @@
  "chains": {
   "byggmax_fi": {
    "products": 11698,
-   "price_changes": 0,
+   "price_changes": 1,
    "suspicious_changes": 0,
    "expired": 0,
-   "seconds": 5307.5
+   "seconds": 5478.3
   }
  }
 }
