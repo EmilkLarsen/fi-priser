@@ -1,12 +1,8 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "chains": {
   "k_rauta_fi": {
-   "products": 13276,
-   "price_changes": 0,
-   "suspicious_changes": 0,
-   "expired": 0,
-   "seconds": 18001.1
+   "error": "HTTPError: HTTP Error 403: Forbidden"
   }
  }
 }
