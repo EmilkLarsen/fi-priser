@@ -456,6 +456,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394025216",
+  "name": "Keittotaso Electrolux Hoi630Mf 60Cm Induktio",
+  "prices": {
+   "k_rauta_fi": 489.0,
+   "power_fi": 341.46
+  },
+  "min": 341.46,
+  "max": 489.0,
+  "spread_pct": 43.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394107431",
   "name": "Astianpesukone Electrolux Esa47220Uw 60Cm Valkoinen",
   "prices": {
@@ -912,15 +924,15 @@
   "match": "exact"
  },
  {
-  "key": "ean:7333394025216",
-  "name": "Keittotaso Electrolux Hoi630Mf 60Cm Induktio",
+  "key": "ean:7333394107493",
+  "name": "Astianpesukone Electrolux Ees48400L 60Cm Integroitava",
   "prices": {
-   "k_rauta_fi": 489.0,
-   "power_fi": 399.0
+   "k_rauta_fi": 699.0,
+   "power_fi": 569.0
   },
-  "min": 399.0,
-  "max": 489.0,
-  "spread_pct": 22.6,
+  "min": 569.0,
+  "max": 699.0,
+  "spread_pct": 22.8,
   "match": "exact"
  },
  {
@@ -1029,6 +1041,18 @@
   "min": 219.99,
   "max": 264.0,
   "spread_pct": 20.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394109152",
+  "name": "Astianpesukone Electrolux Ess42200Sx 45Cm Teras",
+  "prices": {
+   "k_rauta_fi": 539.0,
+   "power_fi": 450.0
+  },
+  "min": 450.0,
+  "max": 539.0,
+  "spread_pct": 19.8,
   "match": "exact"
  },
  {
@@ -1188,15 +1212,15 @@
   "match": "exact"
  },
  {
-  "key": "ean:7333394107493",
-  "name": "Astianpesukone Electrolux Ees48400L 60Cm Integroitava",
+  "key": "ean:7333394108377",
+  "name": "Astianpesukone Electrolux Ess42200Sw 45Cm Valkoinen",
   "prices": {
-   "k_rauta_fi": 699.0,
-   "power_fi": 799.0
+   "k_rauta_fi": 489.0,
+   "power_fi": 424.0
   },
-  "min": 699.0,
-  "max": 799.0,
-  "spread_pct": 14.3,
+  "min": 424.0,
+  "max": 489.0,
+  "spread_pct": 15.3,
   "match": "exact"
  },
  {
@@ -1557,30 +1581,6 @@
   "min": 389.0,
   "max": 399.0,
   "spread_pct": 2.6,
-  "match": "exact"
- },
- {
-  "key": "ean:7333394108377",
-  "name": "Astianpesukone Electrolux Ess42200Sw 45Cm Valkoinen",
-  "prices": {
-   "k_rauta_fi": 489.0,
-   "power_fi": 499.0
-  },
-  "min": 489.0,
-  "max": 499.0,
-  "spread_pct": 2.0,
-  "match": "exact"
- },
- {
-  "key": "ean:7333394109152",
-  "name": "Astianpesukone Electrolux Ess42200Sx 45Cm Teras",
-  "prices": {
-   "k_rauta_fi": 539.0,
-   "power_fi": 529.0
-  },
-  "min": 529.0,
-  "max": 539.0,
-  "spread_pct": 1.9,
   "match": "exact"
  },
  {
