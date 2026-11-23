@@ -228,18 +228,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:7332543484201",
-  "name": "Keittotaso Electrolux Hoc620X 60Cm Keraaminen Teras",
-  "prices": {
-   "k_rauta_fi": 279.0,
-   "power_fi": 499.0
-  },
-  "min": 279.0,
-  "max": 499.0,
-  "spread_pct": 78.9,
-  "match": "exact"
- },
- {
   "key": "ean:4008496550739",
   "name": "Akkuparisto Varta Power C 3000Mah Ladattava 2Kpl",
   "prices": {
@@ -273,6 +261,18 @@
   "min": 244.74,
   "max": 419.0,
   "spread_pct": 71.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394109831",
+  "name": "Astianpesukone Electrolux Esa17200Uw 60Cm Valkoinen",
+  "prices": {
+   "k_rauta_fi": 409.0,
+   "power_fi": 699.0
+  },
+  "min": 409.0,
+  "max": 699.0,
+  "spread_pct": 70.9,
   "match": "exact"
  },
  {
@@ -360,18 +360,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:7333394109152",
-  "name": "Astianpesukone Electrolux Ess42200Sx 45Cm Teras",
-  "prices": {
-   "k_rauta_fi": 539.0,
-   "power_fi": 799.0
-  },
-  "min": 539.0,
-  "max": 799.0,
-  "spread_pct": 48.2,
-  "match": "exact"
- },
- {
   "key": "ean:7333394144788",
   "name": "Kalusteuuni Electrolux Copp10K Pyrolyysi",
   "prices": {
@@ -405,6 +393,18 @@
   "min": 279.98,
   "max": 409.0,
   "spread_pct": 46.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394146386",
+  "name": "Jaakaappi Electrolux Lfs3Se82R",
+  "prices": {
+   "k_rauta_fi": 699.0,
+   "power_fi": 479.0
+  },
+  "min": 479.0,
+  "max": 699.0,
+  "spread_pct": 45.9,
   "match": "exact"
  },
  {
@@ -480,30 +480,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:7333394108377",
-  "name": "Astianpesukone Electrolux Ess42200Sw 45Cm Valkoinen",
-  "prices": {
-   "k_rauta_fi": 489.0,
-   "power_fi": 699.0
-  },
-  "min": 489.0,
-  "max": 699.0,
-  "spread_pct": 42.9,
-  "match": "exact"
- },
- {
-  "key": "ean:7333394025216",
-  "name": "Keittotaso Electrolux Hoi630Mf 60Cm Induktio",
-  "prices": {
-   "k_rauta_fi": 489.0,
-   "power_fi": 699.0
-  },
-  "min": 489.0,
-  "max": 699.0,
-  "spread_pct": 42.9,
-  "match": "exact"
- },
- {
   "key": "ean:7332543996384",
   "name": "Jaakaappi Pakastin Electrolux Lnt6Me32W2 Valkoinen",
   "prices": {
@@ -528,15 +504,27 @@
   "match": "exact"
  },
  {
-  "key": "ean:7333394035550",
-  "name": "Jaakaappi Electrolux Ers3De39X Teras",
+  "key": "ean:7333394013770",
+  "name": "Keittotaso Electrolux Hhhb760S 68Cm Induktio Liesituulettimella",
   "prices": {
-   "k_rauta_fi": 639.0,
-   "power_fi": 899.0
+   "k_rauta_fi": 1649.0,
+   "power_fi": 1169.0
   },
-  "min": 639.0,
-  "max": 899.0,
-  "spread_pct": 40.7,
+  "min": 1169.0,
+  "max": 1649.0,
+  "spread_pct": 41.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394146805",
+  "name": "Jaakaappi Electrolux Lxs3Se82R Integroitava",
+  "prices": {
+   "k_rauta_fi": 649.0,
+   "power_fi": 463.0
+  },
+  "min": 463.0,
+  "max": 649.0,
+  "spread_pct": 40.2,
   "match": "exact"
  },
  {
@@ -573,6 +561,30 @@
   "min": 499.0,
   "max": 689.0,
   "spread_pct": 38.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7332543983094",
+  "name": "Keittotaso Electrolux Hoi336F 30Cm Induktio",
+  "prices": {
+   "k_rauta_fi": 349.0,
+   "power_fi": 254.0
+  },
+  "min": 254.0,
+  "max": 349.0,
+  "spread_pct": 37.4,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394139890",
+  "name": "Induktiotasoliesituuletin Electrolux Hhob6T0C",
+  "prices": {
+   "k_rauta_fi": 1399.0,
+   "power_fi": 1019.0
+  },
+  "min": 1019.0,
+  "max": 1399.0,
+  "spread_pct": 37.3,
   "match": "exact"
  },
  {
@@ -672,6 +684,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7332543982950",
+  "name": "Keittotaso Electrolux Hoc336F 30Cm Keraaminen",
+  "prices": {
+   "k_rauta_fi": 249.0,
+   "power_fi": 191.52
+  },
+  "min": 191.52,
+  "max": 249.0,
+  "spread_pct": 30.0,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791138920",
   "name": "Keittioallas Stala Rst Allas Lagom T40 Hana Alue",
   "prices": {
@@ -732,6 +756,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394131849",
+  "name": "Jaakaappi Pakastin Electrolux Ena7Ne18S Integroitava",
+  "prices": {
+   "k_rauta_fi": 899.0,
+   "power_fi": 706.0
+  },
+  "min": 706.0,
+  "max": 899.0,
+  "spread_pct": 27.3,
+  "match": "exact"
+ },
+ {
   "key": "ean:5412810211517",
   "name": "Ip Kamera Konig Ipcam110B Musta",
   "prices": {
@@ -768,6 +804,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7332543740246",
+  "name": "Jaakaappi Electrolux Lxb1Ae13W0 Valkoinen",
+  "prices": {
+   "k_rauta_fi": 299.0,
+   "power_fi": 237.0
+  },
+  "min": 237.0,
+  "max": 299.0,
+  "spread_pct": 26.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:6417791135004",
   "name": "Kodinhoitoallas Stala Jazz P 40 T Seinaasennettava",
   "prices": {
@@ -789,18 +837,6 @@
   "min": 39.9,
   "max": 49.95,
   "spread_pct": 25.2,
-  "match": "exact"
- },
- {
-  "key": "ean:7332543484188",
-  "name": "Keittotaso Electrolux Hoc620F 60Cm Keraaminen",
-  "prices": {
-   "k_rauta_fi": 279.0,
-   "power_fi": 349.0
-  },
-  "min": 279.0,
-  "max": 349.0,
-  "spread_pct": 25.1,
   "match": "exact"
  },
  {
@@ -840,6 +876,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7332543738366",
+  "name": "Astianpesukone Electrolux Eeq42200L 45Cm Integroitava",
+  "prices": {
+   "k_rauta_fi": 579.0,
+   "power_fi": 467.0
+  },
+  "min": 467.0,
+  "max": 579.0,
+  "spread_pct": 24.0,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394014166",
   "name": "Jaakaappi Pakastin Electrolux Lnb1Le34Xr Teras",
   "prices": {
@@ -864,6 +912,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394025216",
+  "name": "Keittotaso Electrolux Hoi630Mf 60Cm Induktio",
+  "prices": {
+   "k_rauta_fi": 489.0,
+   "power_fi": 399.0
+  },
+  "min": 399.0,
+  "max": 489.0,
+  "spread_pct": 22.6,
+  "match": "exact"
+ },
+ {
   "key": "ean:7315547530006",
   "name": "Hihalauta Sini Ode 7530",
   "prices": {
@@ -885,6 +945,18 @@
   "min": 310.0,
   "max": 379.0,
   "spread_pct": 22.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7332543740123",
+  "name": "Jaakaappi Electrolux Lxb1Se11W0 Valkoinen",
+  "prices": {
+   "k_rauta_fi": 309.0,
+   "power_fi": 254.0
+  },
+  "min": 254.0,
+  "max": 309.0,
+  "spread_pct": 21.7,
   "match": "exact"
  },
  {
@@ -924,15 +996,15 @@
   "match": "exact"
  },
  {
-  "key": "ean:7333394139890",
-  "name": "Induktiotasoliesituuletin Electrolux Hhob6T0C",
+  "key": "ean:7332543996377",
+  "name": "Jaakaappi Pakastin Electrolux Lnt6Me32U2 Teras",
   "prices": {
-   "k_rauta_fi": 1399.0,
-   "power_fi": 1699.0
+   "k_rauta_fi": 699.0,
+   "power_fi": 577.09
   },
-  "min": 1399.0,
-  "max": 1699.0,
-  "spread_pct": 21.4,
+  "min": 577.09,
+  "max": 699.0,
+  "spread_pct": 21.1,
   "match": "exact"
  },
  {
@@ -1092,30 +1164,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:7333394146386",
-  "name": "Jaakaappi Electrolux Lfs3Se82R",
-  "prices": {
-   "k_rauta_fi": 699.0,
-   "power_fi": 599.0
-  },
-  "min": 599.0,
-  "max": 699.0,
-  "spread_pct": 16.7,
-  "match": "exact"
- },
- {
-  "key": "ean:7332543983094",
-  "name": "Keittotaso Electrolux Hoi336F 30Cm Induktio",
-  "prices": {
-   "k_rauta_fi": 349.0,
-   "power_fi": 299.0
-  },
-  "min": 299.0,
-  "max": 349.0,
-  "spread_pct": 16.7,
-  "match": "exact"
- },
- {
   "key": "ean:7333394035543",
   "name": "Jaakaappi Electrolux Ers3De39K Matta Musta",
   "prices": {
@@ -1224,18 +1272,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:7333394146805",
-  "name": "Jaakaappi Electrolux Lxs3Se82R Integroitava",
-  "prices": {
-   "k_rauta_fi": 649.0,
-   "power_fi": 579.0
-  },
-  "min": 579.0,
-  "max": 649.0,
-  "spread_pct": 12.1,
-  "match": "exact"
- },
- {
   "key": "ean:3838782511653",
   "name": "Erillisuuni Upo O717W Valkoinen",
   "prices": {
@@ -1269,18 +1305,6 @@
   "min": 4.45,
   "max": 4.9,
   "spread_pct": 10.1,
-  "match": "exact"
- },
- {
-  "key": "ean:7333394013770",
-  "name": "Keittotaso Electrolux Hhhb760S 68Cm Induktio Liesituulettimella",
-  "prices": {
-   "k_rauta_fi": 1649.0,
-   "power_fi": 1799.0
-  },
-  "min": 1649.0,
-  "max": 1799.0,
-  "spread_pct": 9.1,
   "match": "exact"
  },
  {
@@ -1332,26 +1356,14 @@
   "match": "exact"
  },
  {
-  "key": "ean:7332543740246",
-  "name": "Jaakaappi Electrolux Lxb1Ae13W0 Valkoinen",
+  "key": "ean:7332543484201",
+  "name": "Keittotaso Electrolux Hoc620X 60Cm Keraaminen Teras",
   "prices": {
-   "k_rauta_fi": 299.0,
-   "power_fi": 279.0
+   "k_rauta_fi": 279.0,
+   "power_fi": 299.0
   },
   "min": 279.0,
   "max": 299.0,
-  "spread_pct": 7.2,
-  "match": "exact"
- },
- {
-  "key": "ean:7332543996377",
-  "name": "Jaakaappi Pakastin Electrolux Lnt6Me32U2 Teras",
-  "prices": {
-   "k_rauta_fi": 699.0,
-   "power_fi": 749.0
-  },
-  "min": 699.0,
-  "max": 749.0,
   "spread_pct": 7.2,
   "match": "exact"
  },
@@ -1404,6 +1416,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7332543484188",
+  "name": "Keittotaso Electrolux Hoc620F 60Cm Keraaminen",
+  "prices": {
+   "k_rauta_fi": 279.0,
+   "power_fi": 262.0
+  },
+  "min": 262.0,
+  "max": 279.0,
+  "spread_pct": 6.5,
+  "match": "exact"
+ },
+ {
   "key": "ean:4054278975818",
   "name": "Hoyrypesuri Karcher Sc 1",
   "prices": {
@@ -1440,30 +1464,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:7333394131849",
-  "name": "Jaakaappi Pakastin Electrolux Ena7Ne18S Integroitava",
-  "prices": {
-   "k_rauta_fi": 899.0,
-   "power_fi": 949.0
-  },
-  "min": 899.0,
-  "max": 949.0,
-  "spread_pct": 5.6,
-  "match": "exact"
- },
- {
-  "key": "ean:7332543738366",
-  "name": "Astianpesukone Electrolux Eeq42200L 45Cm Integroitava",
-  "prices": {
-   "k_rauta_fi": 579.0,
-   "power_fi": 549.0
-  },
-  "min": 549.0,
-  "max": 579.0,
-  "spread_pct": 5.5,
-  "match": "exact"
- },
- {
   "key": "ean:8719514326729",
   "name": "Kattovalaisin Philips Panel 36W 27K Valkoinen",
   "prices": {
@@ -1488,18 +1488,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:7332543982950",
-  "name": "Keittotaso Electrolux Hoc336F 30Cm Keraaminen",
-  "prices": {
-   "k_rauta_fi": 249.0,
-   "power_fi": 239.0
-  },
-  "min": 239.0,
-  "max": 249.0,
-  "spread_pct": 4.2,
-  "match": "exact"
- },
- {
   "key": "ean:7333394176703",
   "name": "Astianpesukone Electrolux E82Lc520S Integroitava",
   "prices": {
@@ -1520,6 +1508,18 @@
   },
   "min": 13.95,
   "max": 14.5,
+  "spread_pct": 3.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394035550",
+  "name": "Jaakaappi Electrolux Ers3De39X Teras",
+  "prices": {
+   "k_rauta_fi": 639.0,
+   "power_fi": 664.0
+  },
+  "min": 639.0,
+  "max": 664.0,
   "spread_pct": 3.9,
   "match": "exact"
  },
@@ -1548,18 +1548,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:7332543740123",
-  "name": "Jaakaappi Electrolux Lxb1Se11W0 Valkoinen",
-  "prices": {
-   "k_rauta_fi": 309.0,
-   "power_fi": 299.0
-  },
-  "min": 299.0,
-  "max": 309.0,
-  "spread_pct": 3.3,
-  "match": "exact"
- },
- {
   "key": "ean:3838997911354",
   "name": "Keittioallas Alveus Atrox 30 Carbon Komposiitti",
   "prices": {
@@ -1572,15 +1560,27 @@
   "match": "exact"
  },
  {
-  "key": "ean:7333394109831",
-  "name": "Astianpesukone Electrolux Esa17200Uw 60Cm Valkoinen",
+  "key": "ean:7333394108377",
+  "name": "Astianpesukone Electrolux Ess42200Sw 45Cm Valkoinen",
   "prices": {
-   "k_rauta_fi": 409.0,
-   "power_fi": 399.0
+   "k_rauta_fi": 489.0,
+   "power_fi": 499.0
   },
-  "min": 399.0,
-  "max": 409.0,
-  "spread_pct": 2.5,
+  "min": 489.0,
+  "max": 499.0,
+  "spread_pct": 2.0,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394109152",
+  "name": "Astianpesukone Electrolux Ess42200Sx 45Cm Teras",
+  "prices": {
+   "k_rauta_fi": 539.0,
+   "power_fi": 529.0
+  },
+  "min": 529.0,
+  "max": 539.0,
+  "spread_pct": 1.9,
   "match": "exact"
  },
  {
