@@ -264,18 +264,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:7333394109831",
-  "name": "Astianpesukone Electrolux Esa17200Uw 60Cm Valkoinen",
-  "prices": {
-   "k_rauta_fi": 409.0,
-   "power_fi": 699.0
-  },
-  "min": 409.0,
-  "max": 699.0,
-  "spread_pct": 70.9,
-  "match": "exact"
- },
- {
   "key": "ean:6417791244072",
   "name": "Keittioallas Stala Essent Ceg E40B",
   "prices": {
@@ -465,18 +453,6 @@
   "min": 341.46,
   "max": 489.0,
   "spread_pct": 43.2,
-  "match": "exact"
- },
- {
-  "key": "ean:7333394107431",
-  "name": "Astianpesukone Electrolux Esa47220Uw 60Cm Valkoinen",
-  "prices": {
-   "k_rauta_fi": 489.0,
-   "power_fi": 699.0
-  },
-  "min": 489.0,
-  "max": 699.0,
-  "spread_pct": 42.9,
   "match": "exact"
  },
  {
@@ -777,6 +753,18 @@
   "min": 706.0,
   "max": 899.0,
   "spread_pct": 27.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:3838782958540",
+  "name": "Astianpesukone Upo Uu642D90W 60Cm Valkoinen",
+  "prices": {
+   "k_rauta_fi": 469.0,
+   "power_fi": 369.0
+  },
+  "min": 369.0,
+  "max": 469.0,
+  "spread_pct": 27.1,
   "match": "exact"
  },
  {
@@ -1144,23 +1132,11 @@
   "name": "Keittiohana Damixa Pine 17061",
   "prices": {
    "k_rauta_fi": 191.29,
-   "power_fi": 225.9
+   "power_fi": 225.0
   },
   "min": 191.29,
-  "max": 225.9,
-  "spread_pct": 18.1,
-  "match": "exact"
- },
- {
-  "key": "ean:3838782958540",
-  "name": "Astianpesukone Upo Uu642D90W 60Cm Valkoinen",
-  "prices": {
-   "k_rauta_fi": 469.0,
-   "power_fi": 399.0
-  },
-  "min": 399.0,
-  "max": 469.0,
-  "spread_pct": 17.5,
+  "max": 225.0,
+  "spread_pct": 17.6,
   "match": "exact"
  },
  {
@@ -1281,6 +1257,18 @@
   "min": 521.65,
   "max": 589.0,
   "spread_pct": 12.9,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394107431",
+  "name": "Astianpesukone Electrolux Esa47220Uw 60Cm Valkoinen",
+  "prices": {
+   "k_rauta_fi": 489.0,
+   "power_fi": 549.0
+  },
+  "min": 489.0,
+  "max": 549.0,
+  "spread_pct": 12.3,
   "match": "exact"
  },
  {
@@ -1524,18 +1512,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:4008496931583",
-  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
-  "prices": {
-   "k_rauta_fi": 13.95,
-   "power_fi": 14.5
-  },
-  "min": 13.95,
-  "max": 14.5,
-  "spread_pct": 3.9,
-  "match": "exact"
- },
- {
   "key": "ean:7333394035550",
   "name": "Jaakaappi Electrolux Ers3De39X Teras",
   "prices": {
@@ -1581,6 +1557,30 @@
   "min": 389.0,
   "max": 399.0,
   "spread_pct": 2.6,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496931583",
+  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
+  "prices": {
+   "k_rauta_fi": 13.95,
+   "power_fi": 14.3
+  },
+  "min": 13.95,
+  "max": 14.3,
+  "spread_pct": 2.5,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7333394109831",
+  "name": "Astianpesukone Electrolux Esa17200Uw 60Cm Valkoinen",
+  "prices": {
+   "k_rauta_fi": 409.0,
+   "power_fi": 399.0
+  },
+  "min": 399.0,
+  "max": 409.0,
+  "spread_pct": 2.5,
   "match": "exact"
  },
  {
