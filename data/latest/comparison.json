@@ -516,11 +516,35 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394175720",
+  "name": "Astianpesukone Electrolux E52Ue100Sw",
+  "prices": {
+   "k_rauta_fi": 489.0,
+   "power_fi": 349.0
+  },
+  "min": 349.0,
+  "max": 489.0,
+  "spread_pct": 40.1,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394108568",
   "name": "Astianpesukone Electrolux Eea27200L 60Cm Integroitava",
   "prices": {
    "k_rauta_fi": 499.0,
    "power_fi": 699.0
+  },
+  "min": 499.0,
+  "max": 699.0,
+  "spread_pct": 40.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:7332543996377",
+  "name": "Jaakaappi Pakastin Electrolux Lnt6Me32U2 Teras",
+  "prices": {
+   "k_rauta_fi": 699.0,
+   "power_fi": 499.0
   },
   "min": 499.0,
   "max": 699.0,
@@ -645,18 +669,6 @@
   "min": 14.99,
   "max": 19.95,
   "spread_pct": 33.1,
-  "match": "exact"
- },
- {
-  "key": "ean:7333394175720",
-  "name": "Astianpesukone Electrolux E52Ue100Sw",
-  "prices": {
-   "k_rauta_fi": 489.0,
-   "power_fi": 372.97
-  },
-  "min": 372.97,
-  "max": 489.0,
-  "spread_pct": 31.1,
   "match": "exact"
  },
  {
@@ -993,18 +1005,6 @@
   "min": 237.99,
   "max": 289.0,
   "spread_pct": 21.4,
-  "match": "exact"
- },
- {
-  "key": "ean:7332543996377",
-  "name": "Jaakaappi Pakastin Electrolux Lnt6Me32U2 Teras",
-  "prices": {
-   "k_rauta_fi": 699.0,
-   "power_fi": 577.09
-  },
-  "min": 577.09,
-  "max": 699.0,
-  "spread_pct": 21.1,
   "match": "exact"
  },
  {
@@ -1500,6 +1500,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:4008496931583",
+  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
+  "prices": {
+   "k_rauta_fi": 13.95,
+   "power_fi": 14.6
+  },
+  "min": 13.95,
+  "max": 14.6,
+  "spread_pct": 4.7,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394176703",
   "name": "Astianpesukone Electrolux E82Lc520S Integroitava",
   "prices": {
@@ -1557,18 +1569,6 @@
   "min": 389.0,
   "max": 399.0,
   "spread_pct": 2.6,
-  "match": "exact"
- },
- {
-  "key": "ean:4008496931583",
-  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
-  "prices": {
-   "k_rauta_fi": 13.95,
-   "power_fi": 14.3
-  },
-  "min": 13.95,
-  "max": 14.3,
-  "spread_pct": 2.5,
   "match": "exact"
  },
  {
