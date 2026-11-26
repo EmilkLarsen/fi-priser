@@ -60,18 +60,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:4008496550814",
-  "name": "Akkuparisto Varta Power 9V 200Mah Ladattava",
-  "prices": {
-   "k_rauta_fi": 11.95,
-   "power_fi": 4.99
-  },
-  "min": 4.99,
-  "max": 11.95,
-  "spread_pct": 139.5,
-  "match": "exact"
- },
- {
   "key": "ean:6411501989109",
   "name": "Askartelusakset Fiskars Classic 13Cm",
   "prices": {
@@ -444,6 +432,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:4211125589288",
+  "name": "Heratysvalo Beurer Wl75 225X185Mm 2000Lux",
+  "prices": {
+   "k_rauta_fi": 125.0,
+   "power_fi": 179.0
+  },
+  "min": 125.0,
+  "max": 179.0,
+  "spread_pct": 43.2,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394025216",
   "name": "Keittotaso Electrolux Hoi630Mf 60Cm Induktio",
   "prices": {
@@ -648,6 +648,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:4008496559909",
+  "name": "Alkaliparisto Varta Longlife Power 9V 2Kpl",
+  "prices": {
+   "k_rauta_fi": 7.45,
+   "power_fi": 9.99
+  },
+  "min": 7.45,
+  "max": 9.99,
+  "spread_pct": 34.1,
+  "match": "exact"
+ },
+ {
   "key": "ean:5708516823209",
   "name": "Keittiohana Damixa 7408100 Silhouet Pkv",
   "prices": {
@@ -669,6 +681,18 @@
   "min": 14.99,
   "max": 19.95,
   "spread_pct": 33.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496067046",
+  "name": "Alkaliparisto Varta Longlife Power Aaa 12 Kpl",
+  "prices": {
+   "k_rauta_fi": 8.95,
+   "power_fi": 11.9
+  },
+  "min": 8.95,
+  "max": 11.9,
+  "spread_pct": 33.0,
   "match": "exact"
  },
  {
@@ -864,18 +888,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:4211125608132",
-  "name": "Kirkasvalolamppu Beurer Tl45 Perfect Day 200X200Mm 10000Lux",
-  "prices": {
-   "k_rauta_fi": 99.9,
-   "power_fi": 79.99
-  },
-  "min": 79.99,
-  "max": 99.9,
-  "spread_pct": 24.9,
-  "match": "exact"
- },
- {
   "key": "ean:7315549730008",
   "name": "Hoyrysilityslauta Sini Andante 32X112Cm 9730",
   "prices": {
@@ -924,15 +936,15 @@
   "match": "exact"
  },
  {
-  "key": "ean:7333394107493",
-  "name": "Astianpesukone Electrolux Ees48400L 60Cm Integroitava",
+  "key": "ean:4008496931583",
+  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
   "prices": {
-   "k_rauta_fi": 699.0,
-   "power_fi": 569.0
+   "k_rauta_fi": 13.95,
+   "power_fi": 17.2
   },
-  "min": 569.0,
-  "max": 699.0,
-  "spread_pct": 22.8,
+  "min": 13.95,
+  "max": 17.2,
+  "spread_pct": 23.3,
   "match": "exact"
  },
  {
@@ -1128,18 +1140,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:5708516815419",
-  "name": "Keittiohana Damixa Pine 17061",
-  "prices": {
-   "k_rauta_fi": 191.29,
-   "power_fi": 225.0
-  },
-  "min": 191.29,
-  "max": 225.0,
-  "spread_pct": 17.6,
-  "match": "exact"
- },
- {
   "key": "ean:6417791162314",
   "name": "Jatelajittelu Biokansi Vaihtosuodatin X4",
   "prices": {
@@ -1200,6 +1200,18 @@
   "match": "exact"
  },
  {
+  "key": "ean:7333394107493",
+  "name": "Astianpesukone Electrolux Ees48400L 60Cm Integroitava",
+  "prices": {
+   "k_rauta_fi": 699.0,
+   "power_fi": 799.0
+  },
+  "min": 699.0,
+  "max": 799.0,
+  "spread_pct": 14.3,
+  "match": "exact"
+ },
+ {
   "key": "ean:7333394156118",
   "name": "Astianpesukone Electrolux E62Lc200S Integroitava",
   "prices": {
@@ -1221,18 +1233,6 @@
   "min": 297.99,
   "max": 339.0,
   "spread_pct": 13.8,
-  "match": "exact"
- },
- {
-  "key": "ean:4211125589288",
-  "name": "Heratysvalo Beurer Wl75 225X185Mm 2000Lux",
-  "prices": {
-   "k_rauta_fi": 125.0,
-   "power_fi": 109.99
-  },
-  "min": 109.99,
-  "max": 125.0,
-  "spread_pct": 13.6,
   "match": "exact"
  },
  {
@@ -1296,6 +1296,30 @@
   "match": "exact"
  },
  {
+  "key": "ean:5708516815419",
+  "name": "Keittiohana Damixa Pine 17061",
+  "prices": {
+   "k_rauta_fi": 191.29,
+   "power_fi": 171.97
+  },
+  "min": 171.97,
+  "max": 191.29,
+  "spread_pct": 11.2,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496067275",
+  "name": "Alkaliparisto Varta Longlife Power Aa 12 Kpl",
+  "prices": {
+   "k_rauta_fi": 8.95,
+   "power_fi": 9.9
+  },
+  "min": 8.95,
+  "max": 9.9,
+  "spread_pct": 10.6,
+  "match": "exact"
+ },
+ {
   "key": "ean:3838782780400",
   "name": "Keittotaso Upo Ui6421Bc Induktio",
   "prices": {
@@ -1317,6 +1341,18 @@
   "min": 4.45,
   "max": 4.9,
   "spread_pct": 10.1,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496550692",
+  "name": "Akkuparisto Varta Power Ladattava Nimh Aa 2100Mah 4Kpl",
+  "prices": {
+   "k_rauta_fi": 13.95,
+   "power_fi": 15.3
+  },
+  "min": 13.95,
+  "max": 15.3,
+  "spread_pct": 9.7,
   "match": "exact"
  },
  {
@@ -1353,18 +1389,6 @@
   "min": 35.99,
   "max": 39.0,
   "spread_pct": 8.4,
-  "match": "exact"
- },
- {
-  "key": "ean:4008496550692",
-  "name": "Akkuparisto Varta Power Ladattava Nimh Aa 2100Mah 4Kpl",
-  "prices": {
-   "k_rauta_fi": 13.95,
-   "power_fi": 14.99
-  },
-  "min": 13.95,
-  "max": 14.99,
-  "spread_pct": 7.5,
   "match": "exact"
  },
  {
@@ -1413,18 +1437,6 @@
   "min": 449.0,
   "max": 479.0,
   "spread_pct": 6.7,
-  "match": "exact"
- },
- {
-  "key": "ean:4008496559909",
-  "name": "Alkaliparisto Varta Longlife Power 9V 2Kpl",
-  "prices": {
-   "k_rauta_fi": 7.45,
-   "power_fi": 6.99
-  },
-  "min": 6.99,
-  "max": 7.45,
-  "spread_pct": 6.6,
   "match": "exact"
  },
  {
@@ -1497,18 +1509,6 @@
   "min": 19.0,
   "max": 19.95,
   "spread_pct": 5.0,
-  "match": "exact"
- },
- {
-  "key": "ean:4008496931583",
-  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
-  "prices": {
-   "k_rauta_fi": 13.95,
-   "power_fi": 14.6
-  },
-  "min": 13.95,
-  "max": 14.6,
-  "spread_pct": 4.7,
   "match": "exact"
  },
  {
@@ -1608,27 +1608,15 @@
   "match": "exact"
  },
  {
-  "key": "ean:4008496067275",
-  "name": "Alkaliparisto Varta Longlife Power Aa 12 Kpl",
+  "key": "ean:4008496550814",
+  "name": "Akkuparisto Varta Power 9V 200Mah Ladattava",
   "prices": {
-   "k_rauta_fi": 8.95,
-   "power_fi": 8.99
+   "k_rauta_fi": 11.95,
+   "power_fi": 11.99
   },
-  "min": 8.95,
-  "max": 8.99,
-  "spread_pct": 0.4,
-  "match": "exact"
- },
- {
-  "key": "ean:4008496067046",
-  "name": "Alkaliparisto Varta Longlife Power Aaa 12 Kpl",
-  "prices": {
-   "k_rauta_fi": 8.95,
-   "power_fi": 8.99
-  },
-  "min": 8.95,
-  "max": 8.99,
-  "spread_pct": 0.4,
+  "min": 11.95,
+  "max": 11.99,
+  "spread_pct": 0.3,
   "match": "exact"
  },
  {
@@ -1653,6 +1641,18 @@
   "min": 17.9,
   "max": 17.95,
   "spread_pct": 0.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4211125608132",
+  "name": "Kirkasvalolamppu Beurer Tl45 Perfect Day 200X200Mm 10000Lux",
+  "prices": {
+   "k_rauta_fi": 99.9,
+   "power_fi": 99.99
+  },
+  "min": 99.9,
+  "max": 99.99,
+  "spread_pct": 0.1,
   "match": "exact"
  },
  {
