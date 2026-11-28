@@ -768,18 +768,6 @@
   "match": "exact"
  },
  {
-  "key": "ean:4008496931583",
-  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
-  "prices": {
-   "k_rauta_fi": 13.95,
-   "power_fi": 17.8
-  },
-  "min": 13.95,
-  "max": 17.8,
-  "spread_pct": 27.6,
-  "match": "exact"
- },
- {
   "key": "ean:6417791138579",
   "name": "Allas Stala Lyria L40 17 Rst",
   "prices": {
@@ -969,18 +957,6 @@
   "min": 310.0,
   "max": 379.0,
   "spread_pct": 22.3,
-  "match": "exact"
- },
- {
-  "key": "ean:4008496550692",
-  "name": "Akkuparisto Varta Power Ladattava Nimh Aa 2100Mah 4Kpl",
-  "prices": {
-   "k_rauta_fi": 13.95,
-   "power_fi": 16.99
-  },
-  "min": 13.95,
-  "max": 16.99,
-  "spread_pct": 21.8,
   "match": "exact"
  },
  {
@@ -1197,6 +1173,18 @@
   "min": 12.9,
   "max": 15.0,
   "spread_pct": 16.3,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496550692",
+  "name": "Akkuparisto Varta Power Ladattava Nimh Aa 2100Mah 4Kpl",
+  "prices": {
+   "k_rauta_fi": 13.95,
+   "power_fi": 16.1
+  },
+  "min": 13.95,
+  "max": 16.1,
+  "spread_pct": 15.4,
   "match": "exact"
  },
  {
@@ -1581,6 +1569,18 @@
   "min": 399.0,
   "max": 409.0,
   "spread_pct": 2.5,
+  "match": "exact"
+ },
+ {
+  "key": "ean:4008496931583",
+  "name": "Akkuparisto Varta Ladattava Nimh Aa 2100Mah 4Kpl",
+  "prices": {
+   "k_rauta_fi": 13.95,
+   "power_fi": 14.2
+  },
+  "min": 13.95,
+  "max": 14.2,
+  "spread_pct": 1.8,
   "match": "exact"
  },
  {
